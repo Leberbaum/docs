@@ -22,14 +22,14 @@ A proper treatment of this topic also has to address the very common but anti-Bi
 But below I list key points made by Brown on this verse and add some
 other thoughts I have on this particular text.
 
-(1) Here are some texts in which Jesus says that all that He ever
+1. Here are some texts in which Jesus says that all that He ever
     said on earth was only what His Father gave Him to say:
 
-    John 3:31-32
-    He that cometh from above is above all: he that is of the earth is
-    earthly, and speaketh of the earth: he that cometh from heaven is
-    above all.  And WHAT HE HATH SEEN AND HEARD, that he testifieth;
-    and no man receiveth his testimony.
+        John 3:31-32
+        He that cometh from above is above all: he that is of the earth is
+        earthly, and speaketh of the earth: he that cometh from heaven is
+        above all.  And WHAT HE HATH SEEN AND HEARD, that he testifieth;
+        and no man receiveth his testimony.
 
     John 8:26 
     I have many things to say and to judge of you: but he that sent me is
@@ -48,7 +48,7 @@ other thoughts I have on this particular text.
 
     [Compare Heb 1:1-2, where God speaks through His Son.]
 
-(2) Isaiah 50:4-9 is clearly a Messianic prophecy (vs 6-7 is alluded to in
+2. Isaiah 50:4-9 is clearly a Messianic prophecy (vs 6-7 is alluded to in
     Luke 9:51: He set His face as a flint to go to the appointed suffering).
     Now in the second half of verse 4 of the prophecy, Jesus effectively
     "represents Himself as receiving His instructions daily, being
@@ -57,7 +57,7 @@ other thoughts I have on this particular text.
     So this is a more poetic prophetic way of expressing the above texts
     in which Jesus only passed on the words which His Father had given Him.
 
-(3) In Mark 13:32, the divine title of "The Son" is joined with the
+3.  In Mark 13:32, the divine title of "The Son" is joined with the
     "The Father", so if there is any "literal ignorance", then it must be
     true of THE divine Son too (i.e., must be predicated of Divinity,
     not of humanity)!
@@ -74,7 +74,7 @@ other thoughts I have on this particular text.
     "human ignorance" at the very end of this magisterial prophecy is
     absurd.
 
-(4) I just said in the previous point that the Divine title "The Son"
+4.  I just said in the previous point that the Divine title "The Son"
     is clearly used, juxtaposed with "The Father".  Now in recognition of the
     fact that it is a divine title, all English Bibles (as far as I have
     seen) spell "Son" with a capital 'S' (like Father) in this text.
@@ -85,7 +85,7 @@ other thoughts I have on this particular text.
     to have a lower-case 's' for 'son' here, to match the supposed fact that
     the "ignorant man" is the subject of the verb here!
 
-(5) If the supposed "ignorance as man" idea (i.e., spoken in the
+5.  If the supposed "ignorance as man" idea (i.e., spoken in the
     "ignorant separated human mode") is valid here, then it is valid
     everywhere!  That is, if this view is correct, then Jesus was
     "ignorant as a man" of every future event (apart from so many other
@@ -106,7 +106,7 @@ other thoughts I have on this particular text.
     kept secret from everyone on earth: it discourages speculation and
     reinforces the need for watchfulness, etc.
 
-(6) The determination and revelation of the TIMING of future events seems
+6.  The determination and revelation of the TIMING of future events seems
     to be explicitly reserved for the FATHER.  First of all, it is clearly
     in this Olivet discourse text which we are looking at (parallel in Matthew
     24:36).  So that is perhaps why there is such a extremely strong statement
@@ -116,9 +116,9 @@ other thoughts I have on this particular text.
 
     Tying the Father with TIMING is clearly stated here:
 
- Acts 1:7 And he said unto them, It is not for you to know the
- TIMES OR THE SEASONS, which THE FATHER hath put IN HIS OWN POWER
- (or AUTHORITY [Gk: exousia]).
+        Acts 1:7 And he said unto them, It is not for you to know the
+        TIMES OR THE SEASONS, which THE FATHER hath put IN HIS OWN POWER
+        (or AUTHORITY [Gk: exousia]).
 
     ----
 
