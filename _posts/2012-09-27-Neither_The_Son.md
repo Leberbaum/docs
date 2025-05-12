@@ -1,3 +1,9 @@
+---
+title: "Neither-The-Son"
+date: 2012-09-27
+---
+
+
 NEITHER THE SON
 
 Mark 13:32 But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.
