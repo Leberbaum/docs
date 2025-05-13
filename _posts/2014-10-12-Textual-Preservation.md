@@ -1,8 +1,13 @@
-		    ********************
-		    TEXTUAL PRESERVATION
-		    ********************
+---
+title: "Textual-Preservation
+date: 2014-10-12
+---
 
-                        Allan Steel
+********************
+TEXTUAL PRESERVATION
+********************
+
+Allan Steel
 
 
 
