@@ -25,26 +25,27 @@ other thoughts I have on this particular text.
 1. Here are some texts in which Jesus says that all that He ever
     said on earth was only what His Father gave Him to say:
 
-        John 3:31-32
+        *John 3:31-32*
         He that cometh from above is above all: he that is of the earth is
         earthly, and speaketh of the earth: he that cometh from heaven is
         above all.  And WHAT HE HATH SEEN AND HEARD, that he testifieth;
         and no man receiveth his testimony.
 
-    John 8:26 
-    I have many things to say and to judge of you: but he that sent me is
-    true; and I speak to the world those things WHICH I HAVE HEARD OF HIM.
+        *John 8:26*
+        I have many things to say and to judge of you: but he that
+        sent me is true; and I speak to the world those things WHICH
+        I HAVE HEARD OF HIM.
 
-    John 12:49-50
-    For I have not spoken of myself; but the Father which sent me, he
-    gave me a commandment, WHAT I SHOULD SAY, AND WHAT I SHOULD SPEAK.
-    And I know that his commandment is life everlasting: whatsoever I
-    speak therefore, EVEN AS THE FATHER SAID UNTO ME, so I speak.
+        *John 12:49-50*
+        For I have not spoken of myself; but the Father which sent me, he
+        gave me a commandment, WHAT I SHOULD SAY, AND WHAT I SHOULD SPEAK.
+        And I know that his commandment is life everlasting: whatsoever I
+        speak therefore, EVEN AS THE FATHER SAID UNTO ME, so I speak.
 
-    John 17:7-8, 14
-    Now they have known that all things whatsoever thou hast given me are
-    of thee....  For I have given unto them THE WORDS WHICH THOU GAVEST ME...
-    I have given them THY WORD...
+        *John 17:7-8, 14*
+        Now they have known that all things whatsoever thou hast given
+        me are of thee....  For I have given unto them THE WORDS WHICH
+        THOU GAVEST ME...  I have given them THY WORD...
 
     [Compare Heb 1:1-2, where God speaks through His Son.]
 
@@ -120,60 +121,53 @@ other thoughts I have on this particular text.
         TIMES OR THE SEASONS, which THE FATHER hath put IN HIS OWN POWER
         (or AUTHORITY [Gk: exousia]).
 
-    ----
 
     Also in this passage:
 
- 1 Tim 6:14-15 [14] That thou keep this commandment without spot,
- unrebukeable, until the appearing of our Lord Jesus Christ:
- [15] Which in HIS TIMES HE shall shew, who is the blessed and
- only Potentate, the King of kings, and Lord of lords; [16] Who
- [THE FATHER] only hath immortality, dwelling in the light which
- no man can approach unto; whom no man hath seen, nor can see:
- to whom be honour and power everlasting. Amen
+	1 Tim 6:14-15
+	[14] That thou keep this commandment without spot,
+	unrebukeable, until the appearing of our Lord Jesus Christ:
+	[15] Which in HIS TIMES HE shall shew, who is the blessed and
+	only Potentate, the King of kings, and Lord of lords; [16] Who
+	[THE FATHER] only hath immortality, dwelling in the light which
+	no man can approach unto; whom no man hath seen, nor can see:
+	to whom be honour and power everlasting. Amen
 
     The "he"/"his" in verse 15 seems to refer to the Father, so it can
     be read as:
 
- Which in his [the Father's] times he [The Father] shall shew
- [Christ in His Appearing]
+	Which in his [the Father's] times he [The Father] shall shew
+	[Christ in His Appearing]
 
     So again, this highlights that the FATHER controls the timing.
     See verses 15--16 here (Jamison, Fausset Brown Commentary):
 
- https://www.studylight.org/commentaries/eng/jfb/0-timothy-6.html
+	https://www.studylight.org/commentaries/eng/jfb/0-timothy-6.html
 
- In particular, that says for v 15:
+    In particular, that says for v 15:
 
-     15. in his times-Greek, "His own [fitting] times". The plural
-     implies successive stages in the manifestation of the kingdom
-     of God, each having its own appropriate time, the regulating
-     principle and knowledge of which rests with the Father (1 Timothy
-     2:6; 2 Timothy 1:9; Titus 1:3; Hebrews 1:1).
+    > 15. in his times-Greek, "His own [fitting] times". The plural implies successive stages in the manifestation of the kingdom of God, each having its own appropriate time, the regulating principle and knowledge of which rests with the Father (1 Timothy 2:6; 2 Timothy 1:9; Titus 1:3; Hebrews 1:1).
 
-     he shall show-"display": an expression appropriate in reference to
-     His "APPEARING," which is stronger than His "coming," and implies
-     its visibility; "manifest": make visible (compare Acts 3:20):
-     "He" is the Father (1 Timothy 6:16).
+    > he shall show-"display": an expression appropriate in reference to His "APPEARING," which is stronger than His "coming," and implies its visibility; "manifest": make visible (compare Acts 3:20): "He" is the Father (1 Timothy 6:16).
 
     ----
 
     Similarly in Titus 1:2-3:
 
- In hope of eternal life, which God [the FATHER], that cannot lie,
- promised before the world began; But hath [i.e., the FATHER has now]
- IN DUE TIMES manifested his word through preaching, which is
- committed unto me according to the commandment of God our Saviour;
+	In hope of eternal life, which God [the FATHER], that cannot lie,
+	promised before the world began; But hath [i.e., the FATHER has now]
+	IN DUE TIMES manifested his word through preaching, which is
+	committed unto me according to the commandment of God our Saviour;
 
     ----
 
-    Following JFB Comm reference above, 1 Tim 2:3-6 also seems to match:
+    Following the JFB Comm reference above, 1 Tim 2:3-6 also seems to match:
 
- For this is good and acceptable in the sight of God our Saviour;
- Who will have all men to be saved, and to come unto the knowledge
- of the truth.  For there is one God, and one mediator between God
- and men, the man Christ Jesus; Who gave himself a ransom for all,
- to be testified in due time.
+	For this is good and acceptable in the sight of God our Saviour;
+	Who will have all men to be saved, and to come unto the knowledge
+	of the truth.  For there is one God, and one mediator between God
+	and men, the man Christ Jesus; Who gave himself a ransom for all,
+	to be testified in due time.
 
     That is, the main subject/author of the things in this whole
     passage is the Father (God our Saviour) so the "testified in due
@@ -193,20 +187,18 @@ other thoughts I have on this particular text.
     "No man hath seen God at any time" closely matches what is said of
     the Father here (which passage was mentioned above):
 
- 1 Tim 6:16 Who only hath immortality, dwelling in the light which
- no man can approach unto; whom no man hath seen, nor can see
+	    1 Tim 6:16 Who only hath immortality, dwelling in the light which
+	    no man can approach unto; whom no man hath seen, nor can see
 
     ----
 
     Finally, this also connects with the opening of Hebrews here:
 
- God [The Father], who at SUNDRY TIMES and in divers manners spake in
- time past unto the fathers by the prophets, Hath in THESE LAST DAYS
- SPOKEN UNTO US BY HIS SON...
+	 God [The Father], who at SUNDRY TIMES and in divers manners spake in
+	 time past unto the fathers by the prophets, Hath in THESE LAST DAYS
+	 SPOKEN UNTO US BY HIS SON...
 
     So again, the Father is controlling the TIMES and especially the times
     involving His Son.
 
 -----
-
-For the expression "neither the Son" in Mark 13:32 there is a very common interpretation which says that Jesus was "ignorant as a man" on the actual timing of "that day and that hour".
