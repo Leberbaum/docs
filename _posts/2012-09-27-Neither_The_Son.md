@@ -15,34 +15,34 @@ For the expression "neither the Son" in Mark 13:32 there is a very common interp
 
 Now I cannot accept this view in the slightest.  I believe that a much better interpretation is to take the text as meaning that the REVELATION of the timing of "that day and that hour" was not part of the COMMISSION given to Jesus by His Father.
 
-An excellent presentation of this Not-part-of-His-Commission view is given in David Brown's Commentary "Four Gospels" (Banner of Truth).  There is on online version of this commentary, but it is corrupted: frustratingly, it often omits slabs of the original commentary, including the bulk of what is said on this verse!
+An excellent presentation of this Not-part-of-His-Commission view is given in David Brown's Commentary "Four Gospels" (Banner of Truth).  There are several online versions of this commentary, but most are abbreviated and do not have the important comments on this verse, but I have found one proper copy here at https://www.studylight.org/commentaries/eng/jfu/mark-13.html -- see full comments on verse 32.
 
-A proper treatment of this topic also has to address the very common but anti-Biblical trick of splitting of the one Person into human & divine modes.
+Below I list key points made by Brown on this verse and add some other thoughts I have on this particular text.
 
-But below I list key points made by Brown on this verse and add some
-other thoughts I have on this particular text.
+1. Here are some texts in which Jesus says that all that He ever said on earth was only what His Father gave Him to say:
 
-1. Here are some texts in which Jesus says that all that He ever
-    said on earth was only what His Father gave Him to say:
+        [John 3:31-32]
 
-        *John 3:31-32*
         He that cometh from above is above all: he that is of the earth is
         earthly, and speaketh of the earth: he that cometh from heaven is
         above all.  And WHAT HE HATH SEEN AND HEARD, that he testifieth;
         and no man receiveth his testimony.
 
         *John 8:26*
+
         I have many things to say and to judge of you: but he that
         sent me is true; and I speak to the world those things WHICH
         I HAVE HEARD OF HIM.
 
         *John 12:49-50*
+
         For I have not spoken of myself; but the Father which sent me, he
         gave me a commandment, WHAT I SHOULD SAY, AND WHAT I SHOULD SPEAK.
         And I know that his commandment is life everlasting: whatsoever I
         speak therefore, EVEN AS THE FATHER SAID UNTO ME, so I speak.
 
         *John 17:7-8, 14*
+
         Now they have known that all things whatsoever thou hast given
         me are of thee....  For I have given unto them THE WORDS WHICH
         THOU GAVEST ME...  I have given them THY WORD...
@@ -202,3 +202,6 @@ other thoughts I have on this particular text.
     involving His Son.
 
 -----
+
+A proper treatment of this topic also has to address the very common but anti-Biblical trick of splitting of the one Person into human & divine modes.
+
