@@ -6,7 +6,6 @@ date: 2012-09-27
 
 Mark 13:32 *But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.*
 
------
 
 For the expression "neither the Son" in Mark 13:32 there is a very common interpretation which says that the Lord Jesus was "ignorant as a man" (whatever that means) on the actual timing of "that day and that hour" which He had been speaking about (and giving authoritative Divine commands to His disciples on).
 
@@ -25,29 +24,29 @@ Below I list key points made by Brown on this verse and add some other thoughts 
 
         *John 3:31-32*
 
-	He that cometh from above is above all: he that is of the earth is
-	earthly, and speaketh of the earth: he that cometh from heaven is
-	above all.  And WHAT HE HATH SEEN AND HEARD, that he testifieth;
-	and no man receiveth his testimony.
+        He that cometh from above is above all: he that is of the earth is
+        earthly, and speaketh of the earth: he that cometh from heaven is
+        above all.  And WHAT HE HATH SEEN AND HEARD, that he testifieth;
+        and no man receiveth his testimony.
 
-	*John 8:26*
+        *John 8:26*
 
-	I have many things to say and to judge of you: but he that
-	sent me is true; and I speak to the world those things WHICH
-	I HAVE HEARD OF HIM.
+        I have many things to say and to judge of you: but he that
+        sent me is true; and I speak to the world those things WHICH
+        I HAVE HEARD OF HIM.
 
-	*John 12:49-50*
+        *John 12:49-50*
 
-	For I have not spoken of myself; but the Father which sent me, he
-	gave me a commandment, WHAT I SHOULD SAY, AND WHAT I SHOULD SPEAK.
-	And I know that his commandment is life everlasting: whatsoever I
-	speak therefore, EVEN AS THE FATHER SAID UNTO ME, so I speak.
+        For I have not spoken of myself; but the Father which sent me, he
+        gave me a commandment, WHAT I SHOULD SAY, AND WHAT I SHOULD SPEAK.
+        And I know that his commandment is life everlasting: whatsoever I
+        speak therefore, EVEN AS THE FATHER SAID UNTO ME, so I speak.
 
-	*John 17:7-8, 14*
+        *John 17:7-8, 14*
 
-	Now they have known that all things whatsoever thou hast given
-	me are of thee....  For I have given unto them THE WORDS WHICH
-	THOU GAVEST ME...  I have given them THY WORD...
+        Now they have known that all things whatsoever thou hast given
+        me are of thee....  For I have given unto them THE WORDS WHICH
+        THOU GAVEST ME...  I have given them THY WORD...
 
     [Compare Heb 1:1-2, where God speaks through His Son.]
 
@@ -57,12 +56,12 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     "represents Himself as receiving His instructions daily, being
     each morning instructed what to communicate for the day" [Brown]:
 
-	*Isa 50:4*
+        *Isa 50:4*
 
-	The Lord GOD hath given me the tongue of the learned, that I
-	should know how to speak a word in season to him that is weary:
-	he wakeneth morning by morning, he wakeneth mine ear to hear as
-	the learned.
+        The Lord GOD hath given me the tongue of the learned, that I
+        should know how to speak a word in season to him that is weary:
+        he wakeneth morning by morning, he wakeneth mine ear to hear as
+        the learned.
 
     (The first half of the verse clearly connects with Matt 11:28 too!)
     So this is a more poetic prophetic way of expressing the above
@@ -82,7 +81,7 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     then angels (who are emphasized to be in heaven, and so above men
     on earth), and then comes the Son.  So to suggest that an "ignorant
     humanity" is indicated by the divine title "The Son" here also wrecks
-    this gradation: The Son is clearly represented as SUPERIOR to the
+    this gradation: The Son is clearly represented as **superior** to the
     angels in heaven here!
 
     Also, the whole of this chapter, leading up to this climax, is
@@ -136,29 +135,29 @@ Below I list key points made by Brown on this verse and add some other thoughts 
 
     Tying the Father with TIMING is clearly stated here:
 
-	*Acts 1:7*
+        *Acts 1:7*
 
-	And he said unto them, It is not for you to know the
-	TIMES OR THE SEASONS, which THE FATHER hath put IN HIS OWN POWER
-	(or AUTHORITY [Gk: exousia]).
+        And he said unto them, It is not for you to know the
+        TIMES OR THE SEASONS, which THE FATHER hath put IN HIS OWN POWER
+        (or AUTHORITY [Gk: exousia]).
 
     Also in this passage:
 
-	*1 Tim 6:14-15*
+        *1 Tim 6:14-15*
 
-	[14] That thou keep this commandment without spot,
-	unrebukeable, until the appearing of our Lord Jesus Christ:
-	[15] Which in HIS TIMES HE shall shew, who is the blessed and
-	only Potentate, the King of kings, and Lord of lords; [16] Who
-	[THE FATHER] only hath immortality, dwelling in the light which
-	no man can approach unto; whom no man hath seen, nor can see:
-	to whom be honour and power everlasting. Amen
+        [14] That thou keep this commandment without spot,
+        unrebukeable, until the appearing of our Lord Jesus Christ:
+        [15] Which in HIS TIMES HE shall shew, who is the blessed and
+        only Potentate, the King of kings, and Lord of lords; [16] Who
+        [THE FATHER] only hath immortality, dwelling in the light which
+        no man can approach unto; whom no man hath seen, nor can see:
+        to whom be honour and power everlasting. Amen
 
     The "he"/"his" in verse 15 seems to refer to the Father, so it can
     be read as:
 
-	Which in his [the Father's] times he [The Father] shall shew
-	[Christ in His Appearing]
+        Which in his [the Father's] times he [The Father] shall shew
+        [Christ in His Appearing]
 
     So again, this highlights that the FATHER controls the timing.
     See verses 15--16 here [Jamison, Fausset Brown Commentary](https://www.studylight.org/commentaries/eng/jfb/1-timothy-6.html)
@@ -171,24 +170,24 @@ Below I list key points made by Brown on this verse and add some other thoughts 
 
     Similarly here:
 
-	*Titus 1:2-3*
+        *Titus 1:2-3*
 
-	In hope of eternal life, which God [the FATHER], that cannot lie,
-	promised before the world began; But hath [i.e., the FATHER has now]
-	IN DUE TIMES manifested his word through preaching, which is
-	committed unto me according to the commandment of God our Saviour;
+        In hope of eternal life, which God [the FATHER], that cannot lie,
+        promised before the world began; But hath [i.e., the FATHER has now]
+        IN DUE TIMES manifested his word through preaching, which is
+        committed unto me according to the commandment of God our Saviour;
 
     ----
 
     Following the JFB Comm reference above, this passage also seems to match:
 
-	*1 Tim 2:3-6*
+        *1 Tim 2:3-6*
 
-	For this is good and acceptable in the sight of God our Saviour;
-	Who will have all men to be saved, and to come unto the knowledge
-	of the truth.  For there is one God, and one mediator between God
-	and men, the man Christ Jesus; Who gave himself a ransom for all,
-	to be testified in due time.
+        For this is good and acceptable in the sight of God our Saviour;
+        Who will have all men to be saved, and to come unto the knowledge
+        of the truth.  For there is one God, and one mediator between God
+        and men, the man Christ Jesus; Who gave himself a ransom for all,
+        to be testified in due time.
 
     That is, the main subject/author of the things in this whole
     passage is the Father (God our Saviour) so the "testified in due
@@ -208,18 +207,18 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     "No man hath seen God at any time" closely matches what is said of
     the Father here (which passage was mentioned above):
 
-	*1 Tim 6:16*
+        *1 Tim 6:16*
 
-	Who only hath immortality, dwelling in the light which
-	no man can approach unto; whom no man hath seen, nor can see
+        Who only hath immortality, dwelling in the light which
+        no man can approach unto; whom no man hath seen, nor can see
 
     ----
 
     Finally, this also connects with the opening of Hebrews here:
 
-	 God [The Father], who at SUNDRY TIMES and in divers manners spake in
-	 time past unto the fathers by the prophets, Hath in THESE LAST DAYS
-	 SPOKEN UNTO US BY HIS SON...
+         God [The Father], who at SUNDRY TIMES and in divers manners spake in
+         time past unto the fathers by the prophets, Hath in THESE LAST DAYS
+         SPOKEN UNTO US BY HIS SON...
 
     So again, the Father is controlling the TIMES and especially the times
     involving His Son.
