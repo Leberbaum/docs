@@ -9,7 +9,7 @@ Mark 13:32 *But of that day and that hour knoweth no man, no, not the angels whi
 
 For the expression "neither the Son" in Mark 13:32 there is a very common interpretation which says that the Lord Jesus was "ignorant as a man" (whatever that means) on the actual timing of "that day and that hour" which He had been speaking about (and giving authoritative Divine commands to His disciples on).
 
-Now I cannot accept this view in the slightest.  I believe that a much better interpretation is to take the text as meaning that the **revelation** of the timing of "that day and that hour" was not part of the **commission** given to the Lord Jesus by His Father when He was sent into this world.
+Now I never considered this view conceivable in the slightest.  I believe that a much better interpretation is to take the text as meaning that the **revelation** of the timing of "that day and that hour" was not part of the **commission** given to the Lord Jesus by His Father when He was sent into this world.
 
 An excellent presentation of this Not-part-of-His-Commission
 view is given in David Brown's Commentary "Four Gospels"
@@ -50,7 +50,7 @@ Below I list key points made by Brown on this verse and add some other thoughts 
 
     [Compare Heb 1:1-2, where God speaks through His Son.]
 
-2.  Isaiah 50:4-9 is clearly a Messianic prophecy (vs 6-7 is alluded to in
+2.  Isaiah 50:4-9 is clearly a Messianic prophecy (vss 6-7 are alluded to in
     Luke 9:51: He set His face as a flint to go to the appointed suffering).
     Now in the second half of verse 4 of the prophecy, the Lord Jesus effectively
     "represents Himself as receiving His instructions daily, being
@@ -65,7 +65,7 @@ Below I list key points made by Brown on this verse and add some other thoughts 
 
     (The first half of the verse clearly connects with Matt 11:28 too!)
     So this is a more poetic prophetic way of expressing the above
-    texts in which Jesus only passed on the words which His Father had
+    texts in which the Lord Jesus only passed on the words which His Father had
     given Him.
 
 3.  In Mark 13:32, the divine title of "The Son" is joined with the "The
@@ -73,67 +73,73 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     be true of THE divine Son too (i.e., must be predicated of Divinity,
     not of humanity)!  The expression "The Father and the Son" (with minor
     variants, and sometimes with "the Holy Spirit" added) is a common formula
-    throughout the NT (e.g, Matt 11:27, Matt 28:19, 1 John 2:22, 1John 2:23,
-    2John 1:3, 9), and whenever "The Son" is mentioned with "The Father",
-    it clearly refers to the **divine** Second Person of the Godhead.
+    throughout the NT (e.g, Matt 11:27, Matt 28:19, 1 John 2:22, 1 John 2:23,
+    2 John 1:3, 9), and whenever "The Son" is mentioned with "The Father",
+    it clearly refers to the **divine Second Person of the Godhead*.
 
-    Furthermore, in this verse there is a clear gradation: first men,
-    then angels (who are emphasized to be in heaven, and so above men
-    on earth), and then comes the Son.  So to suggest that an "ignorant
+    Furthermore, in this verse there is a clear gradation: first "man",
+    then "the angels" (who are emphasized to be in Heaven, and so above men
+    on earth), and **then** comes "the Son".  So to suggest that an "ignorant
     humanity" is indicated by the divine title "The Son" here also wrecks
     this gradation: The Son is clearly represented as **superior** to the
-    angels in heaven here!
+    angels in Heaven here (which an "ignorant separated humannity" is not)!
 
     Also, the whole of this chapter, leading up to this climax, is
     a Divine pronouncement of judgment, with detailed predictions and
     given with heavenly authority.  Matt 24:35 ends the discourse with
     "*Heaven and earth shall pass away, but my words shall not pass
-    away*" -- what mean man (or supposed Person in "human only mode")
-    could say that?  So the suggestion of a supposed switch to one minor
-    point of "human ignorance" at the very end of this magisterial divine
-    prophecy is utterly absurd in the context of the whole speech.
+    away*" -- what mere man (or supposed Person in "human only mode")
+    could say that?  So the slightest suggestion of a supposed switch
+    to one minor point of "human ignorance" at the very end of this
+    magisterial divine **prophecy (infallible prediction of the future!)**
+    is utterly absurd in the context of the whole speech.
 
 4.  I just said in the previous point that the Divine title "The Son"
     is clearly used, juxtaposed with "The Father".  Now in recognition of the
-    fact that it is a divine title, all English Bibles (as far as I have
-    seen) spell "Son" with a capital 'S' (like Father) in this text.
-    (The original Greek makes no distinction.)  Now if the "ignorant as
-    man" idea is correct, then it is absurd to have the capital 'S'
-    here, because the subject of "not knowing" is the supposed "ignorant
-    man"!  So all English Bibles are wrong here and should be changed
-    to have a lower-case 's' for 'son' here, to match the supposed fact that
-    the "ignorant man" is the subject of the verb here!
+    fact that it is a divine title, all English versions of the Bible
+    (as far as I have ever seen) spell "Son" with a capital 'S' (like
+    Father) in this text.  (The original Greek makes no distinction but
+    the convention is well established in English.)  Now if the "ignorant
+    as man" idea is correct, then it is absurd to have the capital
+    'S' here, because the subject of "not knowing" is the supposed
+    "ignorant man"!  So all English Bibles are wrong here and should
+    be changed to have a lower-case 's' for 'son' here, to match the
+    supposed fact that the "ignorant man" is the subject of the verb here!
 
 5.  If the supposed "ignorance as man" idea (i.e., spoken in the
     "ignorant separated human mode") is valid here, then it is valid
-    everywhere!  That is, if this view is correct, then Jesus was
+    everywhere!  That is, if this view is correct, then the Lord Jesus was
     "ignorant as a man" of every future event (apart from so many other
     things).  But this is absurd and contradicts all the grand predictions
     earlier in the chapter and countless other predictions like Matt 7:2
-    ("Many will say to me in that day"), etc. -- this implies that Jesus was
+    ("Many will say to me in that day"), etc. -- this implies that the Lord Jesus was
     also "ignorant" of the fact that he will say the very words of Matt
     7:2 in the future, etc.!  (It's painful to write some of the effectively
     blasphemous ideas and total madness implied by this "ignorance" idea.)
 
     So why is the supposed "ignorance as man" mentioned here, when it
-    would be true of every other prediction of Jesus?  Why is it
+    would be true of every other prediction of the Lord Jesus?  Why is it
     supposedly mentioned for this one prediction alone???
 
-    In contrast, for the view that the "not knowing" refers to the fact a
-    revelation of the exact timing is not part of Jesus' commission from
-    the Father, it makes a lot of sense that this fact is deliberately
-    kept secret from everyone on earth: it discourages speculation and
-    reinforces the need for watchfulness, etc.
+    In contrast, for the view that the "not knowing" refers to the fact that
+    the revelation of the exact timing is **not** part of the Lord Jesus' commission
+    from the Father, it makes a lot of sense that this fact is
+    deliberately kept secret from everyone on earth: it discourages
+    speculation and reinforces the need for watchfulness, etc.
 
-6.  The determination and revelation of the TIMING of future events seems
-    to be explicitly reserved for the FATHER.  First of all, it is clearly
-    in this Olivet discourse text which we are looking at (parallel in Matthew
-    24:36).  So that is perhaps why there is such a extremely strong statement
-    (that ONLY the Father knows) because it involves the TIMING of a future
-    event (and not various warnings and details about events to come
-    which ARE revealed by Christ).
+    (The expression "not knowing" is also used in Matt 7:23: *And then will I profess unto them, I never knew you: depart from me, ye that work iniquity*.  Here it of course does not refer to literal ignorance but the fact that the Lord Jesus will not **recognize/acknowledge** such false professors as ever being his genuine disciples.)
 
-    Tying the Father with TIMING is clearly stated here:
+6.  The determination and revelation of the **timing** of future events seems
+    to be explicitly reserved for **The Father**.  First of all, this fact
+    is clearly stated in this Olivet discourse text which we are looking
+    at (parallel in Matthew 24:36) [my main point].  So that is perhaps
+    why there is such a extremely strong statement (that **only**
+    the Father knows) because it involves the **timing** of a future event
+    (and not the various warnings and details about events to come for which
+    we are to be watchful and ready at any stage of our life: these warnings
+    *are* revealed by Christ here).
+
+    Tying the Father with **timing** is clearly stated here:
 
         *Acts 1:7*
 
@@ -177,8 +183,6 @@ Below I list key points made by Brown on this verse and add some other thoughts 
         IN DUE TIMES manifested his word through preaching, which is
         committed unto me according to the commandment of God our Saviour;
 
-    ----
-
     Following the JFB Comm reference above, this passage also seems to match:
 
         *1 Tim 2:3-6*
@@ -212,16 +216,12 @@ Below I list key points made by Brown on this verse and add some other thoughts 
         Who only hath immortality, dwelling in the light which
         no man can approach unto; whom no man hath seen, nor can see
 
-    ----
-
-    Finally, this also connects with the opening of Hebrews here:
+    Finally, this aspect of the timing also connects with the opening of Hebrews here:
 
          God [The Father], who at SUNDRY TIMES and in divers manners spake in
          time past unto the fathers by the prophets, Hath in THESE LAST DAYS
          SPOKEN UNTO US BY HIS SON...
 
-    So again, the Father is controlling the TIMES and especially the times
-    involving His Son.
-
------
+    Yet again, we are told that *the Father* is controlling the *times* and
+    especially the times involving His Son.
 
