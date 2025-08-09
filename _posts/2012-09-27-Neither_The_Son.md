@@ -1,13 +1,9 @@
 ---
-title: "Neither-The-Son"
+title: "Neither The Son (Mark 13:32)"
 date: 2012-09-27
 ---
 
-------------------------------
-"NEITHER THE SON" (Mark 13:32)
-------------------------------
-
-Mark 13:32 But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.
+Mark 13:32 *But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.*
 
 -----
 
@@ -21,7 +17,7 @@ Below I list key points made by Brown on this verse and add some other thoughts 
 
 1. Here are some texts in which Jesus says that all that He ever said on earth was only what His Father gave Him to say:
 
-        [John 3:31-32]
+        *John 3:31-32*
 
         He that cometh from above is above all: he that is of the earth is
         earthly, and speaketh of the earth: he that cometh from heaven is
@@ -49,31 +45,25 @@ Below I list key points made by Brown on this verse and add some other thoughts 
 
     [Compare Heb 1:1-2, where God speaks through His Son.]
 
-2. Isaiah 50:4-9 is clearly a Messianic prophecy (vs 6-7 is alluded to in
+2.  Isaiah 50:4-9 is clearly a Messianic prophecy (vs 6-7 is alluded to in
     Luke 9:51: He set His face as a flint to go to the appointed suffering).
     Now in the second half of verse 4 of the prophecy, Jesus effectively
     "represents Himself as receiving His instructions daily, being
-    each morning instructed what to communicate for the day" [Brown].
+    each morning instructed what to communicate for the day" [Brown]:
+
+        *Isa 50:4*
+
+        The Lord GOD hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.
+
     (The first half of the verse clearly connects with Matt 11:28 too!)
     So this is a more poetic prophetic way of expressing the above texts
     in which Jesus only passed on the words which His Father had given Him.
 
-3.  In Mark 13:32, the divine title of "The Son" is joined with the
-    "The Father", so if there is any "literal ignorance", then it must be
-    true of THE divine Son too (i.e., must be predicated of Divinity,
-    not of humanity)!
+3.  In Mark 13:32, the divine title of "The Son" is joined with the "The Father", so if there were any "literal ignorance" here, then it would be true of THE divine Son too (i.e., must be predicated of Divinity, not of humanity)!  The expression "The Father and the Son" (with minor variants, and sometimes with "the Holy Spirit" added) is a common formula throughout the NT (e.g, Matt 11:27, Matt 28:19, 1 John 2:22, 1John 2:23, 2John 1:3, 9), and whenever "The Son" is mentioned with "The Father", it clearly refers to the **divine** Second Person of the Godhead.
 
-    Furthermore, in this verse there is a clear gradation: after men, then
-    angels (who are emphasized to be in heaven, and so above men on earth)
-    comes the Son.  So to suggest that a "divorced humanity" is indicated
-    by the divine title "The Son" here wrecks this gradation: The Son
-    is clearly represented as SUPERIOR to the angels in heaven here!
+    Furthermore, in this verse there is a clear gradation: first men, then angels (who are emphasized to be in heaven, and so above men on earth), and then comes the Son.  So to suggest that an "ignorant humanity" is indicated by the divine title "The Son" here also wrecks this gradation: The Son is clearly represented as SUPERIOR to the angels in heaven here!
 
-    Also, the whole of this chapter, leading up to this climax, is a
-    Divine pronouncement of judgment, with detailed predictions and given
-    with heavenly authority.  The supposed switch to one minor point of
-    "human ignorance" at the very end of this magisterial prophecy is
-    absurd.
+    Also, the whole of this chapter, leading up to this climax, is a Divine pronouncement of judgment, with detailed predictions and given with heavenly authority.  Matt 24:35 ends the discourse with "*Heaven and earth shall pass away, but my words shall not pass away*" -- what mean man (or supposed Person in "human only mode") could say that?  So the suggestion of a supposed switch to one minor point of "human ignorance" at the very end of this magisterial divine prophecy is utterly absurd in the context of the whole speech.
 
 4.  I just said in the previous point that the Divine title "The Son"
     is clearly used, juxtaposed with "The Father".  Now in recognition of the
@@ -117,14 +107,15 @@ Below I list key points made by Brown on this verse and add some other thoughts 
 
     Tying the Father with TIMING is clearly stated here:
 
-        Acts 1:7 And he said unto them, It is not for you to know the
+        *Acts 1:7*
+	And he said unto them, It is not for you to know the
         TIMES OR THE SEASONS, which THE FATHER hath put IN HIS OWN POWER
         (or AUTHORITY [Gk: exousia]).
 
 
     Also in this passage:
 
-	1 Tim 6:14-15
+	*1 Tim 6:14-15*
 	[14] That thou keep this commandment without spot,
 	unrebukeable, until the appearing of our Lord Jesus Christ:
 	[15] Which in HIS TIMES HE shall shew, who is the blessed and
@@ -152,7 +143,9 @@ Below I list key points made by Brown on this verse and add some other thoughts 
 
     ----
 
-    Similarly in Titus 1:2-3:
+    Similarly here:
+
+	*Titus 1:2-3*
 
 	In hope of eternal life, which God [the FATHER], that cannot lie,
 	promised before the world began; But hath [i.e., the FATHER has now]
@@ -187,8 +180,10 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     "No man hath seen God at any time" closely matches what is said of
     the Father here (which passage was mentioned above):
 
-	    1 Tim 6:16 Who only hath immortality, dwelling in the light which
-	    no man can approach unto; whom no man hath seen, nor can see
+	1 Tim 6:16
+
+	Who only hath immortality, dwelling in the light which
+	no man can approach unto; whom no man hath seen, nor can see
 
     ----
 
