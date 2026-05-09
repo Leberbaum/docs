@@ -77,14 +77,14 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     variants, and sometimes with "the Holy Spirit" added) is a common formula
     throughout the NT (e.g, Matt 11:27, Matt 28:19, 1 John 2:22, 1 John 2:23,
     2 John 1:3, 9), and whenever "The Son" is mentioned with "The Father",
-    it clearly refers to the **divine Second Person of the Godhead*.
+    it clearly refers to the **divine Second Person of the Godhead**.
 
     Furthermore, in this verse there is a clear gradation: first "man",
     then "the angels" (who are emphasized to be in Heaven, and so above men
     on earth), and **then** comes "the Son".  So to suggest that an "ignorant
     humanity" is indicated by the divine title "The Son" here also wrecks
     this gradation: The Son is clearly represented as **superior** to the
-    angels in Heaven here (which an "ignorant separated humannity" is not)!
+    angels in Heaven here (while an "ignorant separated humannity" is not)!
 
     Also, the whole of this chapter, leading up to this climax, is
     a Divine pronouncement of judgment, with detailed predictions and
@@ -139,7 +139,7 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     the Father knows) because it involves the **timing** of a future event
     (and not the various warnings and details about events to come for which
     we are to be watchful and ready at any stage of our life: these warnings
-    *are* revealed by Christ here).
+    **are** revealed by Christ here).
 
     Tying the Father with **timing** is clearly stated here:
 
@@ -185,7 +185,7 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     > IN DUE TIMES manifested his word through preaching, which is
     > committed unto me according to the commandment of God our Saviour;
 
-    Following the JFB Comm reference above, this passage also seems to match:
+    Following the JFB Commentary reference above, this passage also seems to match:
 
     > *1 Tim 2:3-6*
     >
@@ -196,13 +196,13 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     > to be testified in due time.
 
     That is, the main subject/author of the things in this whole
-    passage is the Father (God our Saviour) so the "testified in due
+    passage in 1 Tim 2 is the Father (God our Saviour) so the "testified in due
     time" perhaps points back to the FATHER'S will that this message of
     salvation (with Christ as the one mediator) is testified/revealed NOW
     (the due time) because the Father in particular would have all men
     to be saved, and to come unto the knowledge of the truth.
 
-    But the middle part is highlighting this fact: "No man hath seen
+    But the middle part is highlighting the role of Christ as the way to the Father, as expressed in these famous texts of John: "No man hath seen
     God [The FATHER] at any time; the only begotten Son, which is in
     the bosom of the Father, he hath DECLARED him." / "I am the door.
     No man cometh to the Father but by me".  So in this 1 Tim 2 passage,
@@ -210,23 +210,23 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     unapproachable by sinful man) is ONLY through His Son (just like
     the Holy of Holies comparison in Heb 9!).
 
-    "No man hath seen God at any time" closely matches what is said of
-    the Father here (which passage was mentioned above):
+    Again, "No man hath seen God at any time" closely matches what is said of
+    the Father in the 1 Tim 6 passage mentioned above:
 
     > *1 Tim 6:16*
     >
-    > Who only hath immortality, dwelling in the light which
-    > no man can approach unto; whom no man hath seen, nor can see
+    > Who only hath immortality, dwelling in the light **which
+    > no man can approach unto**; whom no man hath seen, nor can see
 
     Finally, this aspect of the timing also connects with the opening of Hebrews here:
 
     > *Heb 1:1-2*
     >
     > God [The Father], who at SUNDRY TIMES and in divers manners spake in
-    > time past unto the fathers by the prophets, Hath in THESE LAST DAYS
-    > SPOKEN UNTO US BY HIS SON...
+    > time past unto the fathers by the prophets, Hath in **THESE LAST DAYS
+    > SPOKEN UNTO US BY HIS SON**...
 
-    Yet again, we are told that *the Father* is controlling the *times* and
+    Yet again, we are told that **the Father** is controlling the **times** and
     especially the times involving His Son.
 
     [1 Cor 15:24 and 28 also speak of the supremacy of the Father when
