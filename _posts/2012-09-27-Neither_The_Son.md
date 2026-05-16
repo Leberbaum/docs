@@ -244,16 +244,16 @@ Below I list key points made by Brown on this verse and add some other thoughts 
 
     > *1 Tim 6:16*
     >
-    > Who only hath immortality, dwelling in the light **which
-    > no man can approach unto**; whom no man hath seen, nor can see
+    > Who only hath immortality, dwelling in the light WHICH
+    > NO MAN CAN APPROACH UNTO; whom no man hath seen, nor can see
 
     Finally, this aspect of the timing also connects with the opening of Hebrews here:
 
     > *Heb 1:1-2*
     >
-    > God [The Father], who **at SUNDRY TIMES** and in divers manners spake in
-    > time past unto the fathers by the prophets, Hath in **THESE LAST DAYS
-    > SPOKEN UNTO US BY HIS SON**...
+    > God [The Father], who AT SUNDRY TIMES and in divers manners spake in
+    > time past unto the fathers by the prophets, Hath IN THESE LAST DAYS
+    > SPOKEN UNTO US BY HIS SON...
 
     Yet again, we are told that **the Father** is controlling the **times** and
     especially the times involving His Son.
