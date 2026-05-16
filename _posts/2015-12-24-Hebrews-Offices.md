@@ -31,7 +31,7 @@ date: 2015-12-24
   }
   table.hofftab td.office {
     font-weight: bold;
-    white-space: nowrap;
+    width: 18%;
   }
   table.hofftab td.ref {
     white-space: nowrap;
@@ -113,7 +113,7 @@ Offering concept is in the very opening sentence of Hebrews!
 <tr><th>Office(s)</th><th>Text</th><th>Comments</th></tr>
 
 <tr>
-<td class="office">PROPHET + PRIEST + OFFERING + KING</td>
+<td class="office">PROPHET + PRIEST +<br>OFFERING + KING</td>
 <td class="ref">1:1-3</td>
 <td>All three main offices and offering in opening. <strong>PROPHET</strong>: <em>"God has spoken by His Son"</em>; <strong>PRIEST</strong>: <em>"Christ [actively!] purged our sins"</em>; <strong>OFFERING</strong>: <em>"By Himself (i.e., by the offering of Himself)"</em> [as in 9:12, 14]; <strong>KING</strong>: <em>"Christ sat down on the heavenly throne at the right hand of the Father"</em>.</td>
 </tr>
@@ -341,13 +341,13 @@ Offering concept is in the very opening sentence of Hebrews!
 </tr>
 
 <tr>
-<td class="office">PRIEST + OFFERING + KING</td>
+<td class="office">PRIEST + OFFERING +<br>KING</td>
 <td class="ref">12:2</td>
 <td>Christ was active as Priest (author and finisher/perfecter) and endured the death of the cross (Offering) and is now set down at the right hand of the throne of God (King).  Again, very similar to 1:3.</td>
 </tr>
 
 <tr>
-<td class="office">PRIEST + OFFERING + PROPHET</td>
+<td class="office">PRIEST + OFFERING +<br>PROPHET</td>
 <td class="ref">12:24-25</td>
 <td>Ye are come to Jesus, the mediator (Priest) of the New Covenant, and to the blood of sprinkling (Offering), which speaks pardon instead of vengeance (which Abel's blood did).  Therefore apostasy is rejection of God speaking directly from Heaven through His Son (v. 25a, 25c) and in particular it is rejection of the only true Priest (24a) and only true propitiation which God has set forth (v. 24b = <em>Rom 3:25</em>) and so has much greater punishment than there was for rejection of the earthly mediators through whom God spake at Sinai (v. 19b, 25b) in the Old Covenant.  Identical argument on prophecy to that made in 2:2-3 (as in 1:1).  But the argument is made stronger here because of the simultaneous rejection of the NC Mediator and His pardoning blood; thus apostasy is here stated to be a rejection of Christ as <strong>Prophet, Priest and Offering</strong> at the same time!</td>
 </tr>
@@ -365,7 +365,7 @@ Offering concept is in the very opening sentence of Hebrews!
 </tr>
 
 <tr>
-<td class="office">KING + PRIEST + OFFERING</td>
+<td class="office">KING + PRIEST +<br>OFFERING</td>
 <td class="ref">13:20</td>
 <td>The God of peace brought again from the dead our Lord Jesus (King: Exaltation; compare <em>Acts 2:32-36</em>), that great shepherd of the sheep (Priest + Offering, as in <em>John 10:11</em>: <em>"the good shepherd giveth [Priestly action] his life [Offering] for the sheep"</em>), through the blood of the everlasting covenant (Offering; His blood ratifies New Covenant as in 9:16-18, 10:26-29).  (Identical idea for whole verse is also in <em>Phil 2:8-9</em>: Exaltation is the reward for obedience-unto-death!)</td>
 </tr>
