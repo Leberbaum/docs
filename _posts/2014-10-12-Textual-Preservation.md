@@ -404,8 +404,7 @@ When in this crazy textual mode, many people who call themselves
 "Reformed", "Conservative Christians", etc. explicitly say that the Word
 of God we have is NOT inspired/authoritative, etc.
 For example,
-[in an article against exclusive Psalmody]
-(https://content.cbtseminary.org/exclusive-psalmody-4/),
+[in an article against exclusive Psalmody](https://content.cbtseminary.org/exclusive-psalmody-4/),
 the author
 says that the Psalms [and thus all books of the Bible for that matter]
 are NOT inspired anyway because we do not have the original manuscripts).
