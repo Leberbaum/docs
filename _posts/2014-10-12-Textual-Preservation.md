@@ -219,15 +219,15 @@ Here are texts that say that God actually preserves His Word within HIS PEOPLE:
 
 - > *Acts 7:38*
   >
-  > This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give unto us:
+  > This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give unto US:
 
-  Moses passed on God's Word to His people.
+  Moses passed on God's Word to His people.  Stephen (with the word "us") asserts that he and his hearers were given the same words (as if they were present with Moses at that time).
 
 - > *Mat 10:40*
   >
   > He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.
 
-  Receiving the apostles (and their words) is equivalent to receiving Christ himself (*Mat 10:40-42*).
+  Receiving the apostles (and their words) is equivalent to receiving Christ Himself and the Father (*Mat 10:40-42*).  But if we are not infallibly sure that the Words of Christ are preserved, then there is nothing to receive from the Apostles.
 
 - > *John 17:8*
   >
@@ -239,7 +239,7 @@ Here are texts that say that God actually preserves His Word within HIS PEOPLE:
   >
   > To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God,
 
-  God's revelation is known through the Church.
+  God's revelation of His wisdom is known through the Church (so it must possess it).
 
 - > *Rom 10:14*
   >
@@ -257,7 +257,7 @@ Here are texts that say that God actually preserves His Word within HIS PEOPLE:
   >
   > Saying, The scribes and the Pharisees sit in Moses' seat: All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
 
-  Jesus said that the current leaders of God's people (Pharisees & Scribes), even despite their wickedness, still DID have the AUTHORITY equal to Moses whenever they followed his writings (i.e., He assumes they had an infallible copy of God's original Word given to Moses and to be expounded by them, down to every jot & tittle)!
+  Jesus said that the leaders of God's people at that time (the Scribes and Pharisees), even despite their own wickedness, still DID have the AUTHORITY equal to Moses whenever they followed his writings (i.e., He assumes they had an infallible copy of God's original Word given to Moses and to be expounded by them, down to every jot & tittle)!
 
 Some other texts which support all this (especially on delivering God's word to others in preaching, etc.):
 
