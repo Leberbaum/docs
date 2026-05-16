@@ -129,14 +129,14 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     "ignorant as a man" of every future event (apart from so many other
     things).  But this is absurd and contradicts all the grand predictions
     earlier in the chapter and countless other predictions like Matt 7:2
-    ("Many will say to me in that day"), etc. -- this implies that the Lord Jesus was
+    ("*Many will say to me in that day*"), etc. -- this implies that the Lord Jesus was
     also "ignorant" of the fact that he will say the very words of Matt
     7:2 in the future, etc.!  (It's painful to write some of the effectively
     blasphemous ideas and total madness implied by this "ignorance" idea.)
 
-    So why is the supposed "ignorance as man" mentioned here, when it
-    would be true of every other prediction of the Lord Jesus?  Why is it
-    supposedly mentioned for this one prediction alone???
+    So why is the supposed "ignorance as man" mentioned **here**, when it
+    would be true of **every** other prediction made by the Lord Jesus?
+    Why is it supposedly mentioned for this one prediction alone???
 
     In contrast, for the view that the "not knowing" refers to the fact
     that the revelation of the exact timing is **not** part of the Lord
