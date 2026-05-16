@@ -104,7 +104,7 @@ Here is now a list of mostly obvious texts which support this model:
   >
   > But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
 
-  We must daily live by *EVERY word of God* (so it must be preserved if we are to do that daily in present age!).
+  We must daily live by *EVERY word of God* (so it must be preserved if we are to do that daily in the present age!).
 
 - > *Mat 5:17-19*
   >
@@ -120,7 +120,7 @@ Here is now a list of mostly obvious texts which support this model:
   >
   > Heaven and earth shall pass away: but my words shall not pass away.
 
-  Christ's Words will not pass away (stronger than Creation!).  (But how can we be sure that we have ALL of Christ's Words now which He intended to be preserved for His Church?).
+  Christ's Words will not pass away (stronger than Creation!).  But how can we be sure that we still have ALL of Christ's Words which He intended to be preserved for His Church?
 
 - > *Deu 29:29*
   >
@@ -136,7 +136,8 @@ Here is now a list of mostly obvious texts which support this model:
   >
   > Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.
 
-  Things written before were written *FOR US* now, so it is assumed we have those original writings infallibly.
+  Things **written before** were written *FOR US* now, so it is taken for
+  granted that we have those original writings infallibly!
 
 - > *Gal 3:16*
   >
@@ -158,15 +159,15 @@ Here is now a list of mostly obvious texts which support this model:
 
 - > *Heb 3:7*
   >
-  > Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,
+  > Wherefore (as the Holy Ghost saith, To day if ye will hear his voice, ...)
 
-  The Holy Spirit SPEAKS (present tense) to us through *Ps 95* (that implies that the words of *Ps 95* were inspired, but the original manuscript of *Ps 95* was not present when Hebrews was written, at least not available to all readers to check!).
+  The Holy Spirit IS STILL SPEAKING (present tense) to us through *Ps 95*: that implies that the words of *Ps 95* were inspired, but the original manuscript of *Ps 95* was not present when Hebrews was written (at least not available to all readers to check)!  So this assertion that the Holy Ghost is still speaking to us would be wrong if the inspiration of Ps 95 is not preserved (see OMO below).
 
 - > *1 Pet 1:25*
   >
   > But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.
 
-  *The word of the Lord endureth for ever*.
+  *The word of the Lord endureth for ever*: again, this statement is pointless if we do not have this word for ourselves!
 
 - > *Rev 22:18-19*
   >
@@ -186,16 +187,29 @@ Here is now a list of mostly obvious texts which support this model:
   >
   > And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book out of that which is before the priests the Levites:
 
-  So every new king is commanded to make a fresh copy of "this law" (for his own use) from what the priests and Levites already have.  But "this law" refers to the actual giving of the law which Moses is describing now, so it is taken for granted that the priests and Levites and thus the new king will have "this law" preserved for them!  [BTW, note that the name of the book Deuteronomy is actually taken from this verse: both LXX and Vulgate have Deuteronomion/Deuteronomium in this text for "copy of the law": see [https://www.blueletterbible.org/lxx/deu/17/1/t_conc_170018](https://www.blueletterbible.org/lxx/deu/17/1/t_conc_170018).  A common view that the name of the book refers to the "Second giving of the Law" (by Moses) is incorrect.]
+  Here every new king is commanded to make a fresh copy of "this
+  law" (for his own use) from what the priests and Levites already
+  have.  But "this law" refers to the actual giving of the law
+  which Moses is describing now, so it is taken for granted that
+  the priests and Levites and thus the new king will have "this
+  law" preserved for them!
+
+  By the way, note that the name of the book
+  Deuteronomy is actually taken from this verse: both the Septuagint
+  and Vulgate have the mistranslation *Deuteronomion/Deuteronomium* [=Second Law] in this text where the Hebrew has *mishneh ha-torah ha-zot*, which accurately translates to "a copy of this law.".   See the Septuagint text
+  [here](https://www.blueletterbible.org/lxx/deu/17/1/t_conc_170018).
+  So the common view that the name of the book refers to the "Second giving
+  of the Law" (by Moses) is wrong.
 
 
 Here are texts that say that God actually preserves His Word within HIS PEOPLE:
 
-- > *Rom 3:2*
+- > *Rom 3:1-2*
   >
+  > What advantage then hath the Jew? or what profit is there of circumcision?
   > Much every way: chiefly, because that unto them were committed the oracles of God.
 
-  Paul literally says that God ENTRUSTED his Word to His people!
+  Here Paul literally says that God's Word was ENTRUSTED [Greek: *episteuthesen*] to His people!
 
 - > *Rom 9:4*
   >
@@ -383,9 +397,9 @@ called the "INSPIRED WORD OF GOD"!
 When in this crazy textual mode, many people who call themselves
 "Reformed", "Conservative Christians", etc. explicitly say that the Word
 of God we have is NOT inspired/authoritative, etc.
-For example, in
-[an article](https://content.cbtseminary.org/exclusive-psalmody-4/),
-against exclusive Psalmody by Sam Waldron,
+For example,
+[in an article against exclusive Psalmody]
+(https://content.cbtseminary.org/exclusive-psalmody-4/),
 the author
 says that the Psalms [and thus all books of the Bible for that matter]
 are NOT inspired anyway because we do not have the original manuscripts).
