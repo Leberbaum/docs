@@ -4,6 +4,8 @@ author: Allan Steel
 date: 2012-09-27
 ---
 
+<p style="font-size: 1.25em; color: #555;">By Allan Steel | September 27, 2012</p>
+
 > *Mark 13:32*
 >
 > But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.
