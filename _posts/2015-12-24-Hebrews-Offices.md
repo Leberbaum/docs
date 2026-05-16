@@ -38,6 +38,8 @@ date: 2015-12-24
   }
 </style>
 
+[**This is an excerpt from a book I am writing on the Biblical Covenants.**]
+
 ## Introduction
 
 Here is yet another demonstration that Paul's Epistle to the Hebrews is the
@@ -372,10 +374,8 @@ Offering concept is in the very opening sentence of Hebrews!
 
 </table>
 
-Note J. Brown on *Heb 13:20*:
+Note John Brown (Commentary on Hebrews) on *Heb 13:20*:
 
-> *J. Brown on Heb 13:20*
->
 > The resurrection of our Lord is represented as the result of this shedding
 > of His blood, by which the everlasting covenant was confirmed. He was
 > brought again from the dead by the blood of the everlasting covenant. His
