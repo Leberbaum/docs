@@ -115,43 +115,43 @@ Offering concept is in the very opening sentence of Hebrews!
 <tr>
 <td class="office">PROPHET + PRIEST + OFFERING + KING</td>
 <td class="ref">1:1-3</td>
-<td>All three main offices and offering in opening. **PROPHET**: *"God has spoken by His Son"*; **PRIEST**: *"Christ [actively!] purged our sins"*; **OFFERING**: *"By Himself (i.e., by the offering of Himself)"* [as in 9:12, 14]; **KING**: *"Christ sat down on the heavenly throne at the right hand of the Father"*.</td>
+<td>All three main offices and offering in opening. <strong>PROPHET</strong>: <em>"God has spoken by His Son"</em>; <strong>PRIEST</strong>: <em>"Christ [actively!] purged our sins"</em>; <strong>OFFERING</strong>: <em>"By Himself (i.e., by the offering of Himself)"</em> [as in 9:12, 14]; <strong>KING</strong>: <em>"Christ sat down on the heavenly throne at the right hand of the Father"</em>.</td>
 </tr>
 
 <tr>
 <td class="office">KING</td>
 <td class="ref">1:8-9</td>
-<td>Christ is King on His eternal throne (*Ps 45:6-7*).</td>
+<td>Christ is King on His eternal throne (<em>Ps 45:6-7</em>).</td>
 </tr>
 
 <tr>
 <td class="office">KING</td>
 <td class="ref">1:13</td>
-<td>Christ is King on the right hand of the throne (*Ps 110:1*).</td>
+<td>Christ is King on the right hand of the throne (<em>Ps 110:1</em>).</td>
 </tr>
 
 <tr>
 <td class="office">PROPHET</td>
 <td class="ref">2:3</td>
-<td>Christ is the Lord of Heaven SPEAKING on earth (cf. *John 3:13*, *1 Cor 15:47*).</td>
+<td>Christ is the Lord of Heaven SPEAKING on earth (cf. <em>John 3:13</em>, <em>1 Cor 15:47</em>).</td>
 </tr>
 
 <tr>
 <td class="office">KING</td>
 <td class="ref">2:8-9</td>
-<td>Christ has all things put under Him and is crowned (King!) with glory and honour (*Ps 8:5-6*); same as *1 Cor 15:27*.</td>
+<td>Christ has all things put under Him and is crowned (King!) with glory and honour (<em>Ps 8:5-6</em>); same as <em>1 Cor 15:27</em>.</td>
 </tr>
 
 <tr>
 <td class="office">PROPHET</td>
 <td class="ref">2:12</td>
-<td>Christ declares the Father's name to His brethren and sings in the midst of the congregation (*Ps 22:22*).</td>
+<td>Christ declares the Father's name to His brethren and sings in the midst of the congregation (<em>Ps 22:22</em>).</td>
 </tr>
 
 <tr>
 <td class="office">PRIEST</td>
 <td class="ref">2:13</td>
-<td>Christ represents His brethren (the children God gave him: *Is 8:18*).</td>
+<td>Christ represents His brethren (the children God gave him: <em>Is 8:18</em>).</td>
 </tr>
 
 <tr>
@@ -181,19 +181,19 @@ Offering concept is in the very opening sentence of Hebrews!
 <tr>
 <td class="office">PRIEST</td>
 <td class="ref">5:1-5</td>
-<td>Formal definition of priesthood and Christ's official calling to it by the Father (*Ps 2:7* [*begetting* = incarnation; see JA Alexander on *Acts 13:33*], *Ps 110:4* [*oath*]).</td>
+<td>Formal definition of priesthood and Christ's official calling to it by the Father (<em>Ps 2:7</em> [<em>begetting</em> = incarnation; see JA Alexander on <em>Acts 13:33</em>], <em>Ps 110:4</em> [<em>oath</em>]).</td>
 </tr>
 
 <tr>
 <td class="office">PRIEST</td>
 <td class="ref">5:7-10</td>
-<td>Christ's obedience while suffering qualifies Him **experimentally** to be High Priest (with reference to Gethsemane).</td>
+<td>Christ's obedience while suffering qualifies Him <strong>experimentally</strong> to be High Priest (with reference to Gethsemane).</td>
 </tr>
 
 <tr>
 <td class="office">PRIEST</td>
 <td class="ref">6:13-20</td>
-<td>God's Oath is the surest possible confirmation of anything, and Christ's priesthood is established by an oath (*Ps 110:4*).</td>
+<td>God's Oath is the surest possible confirmation of anything, and Christ's priesthood is established by an oath (<em>Ps 110:4</em>).</td>
 </tr>
 
 <tr>
@@ -241,19 +241,19 @@ Offering concept is in the very opening sentence of Hebrews!
 <tr>
 <td class="office">PRIEST</td>
 <td class="ref">7:28</td>
-<td>Chronological argument II: the *Ps 110:4* oath was given **after** the Aaronic order was established, so supersedes the Aaronic system.</td>
+<td>Chronological argument II: the <em>Ps 110:4</em> oath was given <strong>after</strong> the Aaronic order was established, so supersedes the Aaronic system.</td>
 </tr>
 
 <tr>
 <td class="office">PRIEST + KING</td>
 <td class="ref">8:1</td>
-<td>We have Christ, who is the High Priest **AND** the exalted King on the right hand of the throne of God!  Compare use of 'we have' with 13:10 below (= we have an Offering!).</td>
+<td>We have Christ, who is the High Priest <strong>AND</strong> the exalted King on the right hand of the throne of God!  Compare use of 'we have' with 13:10 below (= we have an Offering!).</td>
 </tr>
 
 <tr>
 <td class="office">PRIEST</td>
 <td class="ref">8:2-9:11</td>
-<td>Christ's **MINISTRY** (the formal system of religious service/work done by priests) is superior to the Aaronic ministry; reasons follow.</td>
+<td>Christ's <strong>MINISTRY</strong> (the formal system of religious service/work done by priests) is superior to the Aaronic ministry; reasons follow.</td>
 </tr>
 
 <tr>
@@ -265,7 +265,7 @@ Offering concept is in the very opening sentence of Hebrews!
 <tr>
 <td class="office">PRIEST + KING</td>
 <td class="ref">8:6-13</td>
-<td>(2) Christ is the Mediator (= Priest) of the better New Covenant, which itself is established on better promises.  In particular, the *Jer 31* prophecy foretold that the new covenant (ministry) would be better because: (a) it removes the earthly mediators/teachers (Aaronic PRIESTS) [details in 9:1-24] and now allows direct access to God by the final PRIEST Christ; (b) His final OFFERING takes away sin and the typical sacrifices once and for all (9:25-10:18; argument again from *Jer 31* in 10:15-18).</td>
+<td>(2) Christ is the Mediator (= Priest) of the better New Covenant, which itself is established on better promises.  In particular, the <em>Jer 31</em> prophecy foretold that the new covenant (ministry) would be better because: (a) it removes the earthly mediators/teachers (Aaronic PRIESTS) [details in 9:1-24] and now allows direct access to God by the final PRIEST Christ; (b) His final OFFERING takes away sin and the typical sacrifices once and for all (9:25-10:18; argument again from <em>Jer 31</em> in 10:15-18).</td>
 </tr>
 
 <tr>
@@ -283,7 +283,7 @@ Offering concept is in the very opening sentence of Hebrews!
 <tr>
 <td class="office">PRIEST + OFFERING</td>
 <td class="ref">9:15</td>
-<td>Christ is the official Mediator (Priest) of the New Covenant, but amazingly, at the same time His death is also the Offering that officially **ratifies** the New Covenant!!!  This is like adding a signature to a document to make it legal/binding.  (Identical: *"This is the NEW COVENANT in MY BLOOD, which is SHED for you"* [*Luke 22:20*].)  Also, Christ's death was also needed to pay for [redeem] the transgressions committed under the Old Covenant (which were only symbolically atoned for in the past: payment for their forgiveness was 'on credit' [= *Rom 3:25*]).</td>
+<td>Christ is the official Mediator (Priest) of the New Covenant, but amazingly, at the same time His death is also the Offering that officially <strong>ratifies</strong> the New Covenant!!!  This is like adding a signature to a document to make it legal/binding.  (Identical: <em>"This is the NEW COVENANT in MY BLOOD, which is SHED for you"</em> [<em>Luke 22:20</em>].)  Also, Christ's death was also needed to pay for [redeem] the transgressions committed under the Old Covenant (which were only symbolically atoned for in the past: payment for their forgiveness was 'on credit' [= <em>Rom 3:25</em>]).</td>
 </tr>
 
 <tr>
@@ -301,13 +301,13 @@ Offering concept is in the very opening sentence of Hebrews!
 <tr>
 <td class="office">PRIEST + OFFERING</td>
 <td class="ref">9:25-28</td>
-<td>Christ removed sin by one final offering of Himself, not to be repeated.  Priest + Offering: v. 25 (offered Himself), v. 26 (suffered + put away sin).  Offering: v. 27 (quoting *Is 53:11*).</td>
+<td>Christ removed sin by one final offering of Himself, not to be repeated.  Priest + Offering: v. 25 (offered Himself), v. 26 (suffered + put away sin).  Offering: v. 27 (quoting <em>Is 53:11</em>).</td>
 </tr>
 
 <tr>
 <td class="office">PRIEST + OFFERING</td>
 <td class="ref">10:1-10</td>
-<td>Christ came to terminate the system of typical (symbolic) Aaronic offerings.  Again, there is the same amazing combination: He came to act as a Priest (to **DO** the Father's will [v. 5a, 7, 9]), but this involved taking a **body** which was to be offered (v. 5c; *Ps 40:6-8*)!  Succinctly put in the wonderful v. 10: in Christ's Obedience (acting as Priest) to the Father's will, His body was offered (Offering) and this (active!) obedience sanctifies us who believe on Him.  This is remarkably similar to *John 6:39-40, 51*: the Father's will [commission to Christ] is for Christ (**actively**) to be Priest [lose nothing, save believers] **through** the offering of his flesh.  The following is also effectively the same as v. 10 here: *"And for their sakes I sanctify myself, that they also might be sanctified through the truth."* (*John 17:19*)</td>
+<td>Christ came to terminate the system of typical (symbolic) Aaronic offerings.  Again, there is the same amazing combination: He came to act as a Priest (to <strong>DO</strong> the Father's will [v. 5a, 7, 9]), but this involved taking a <strong>body</strong> which was to be offered (v. 5c; <em>Ps 40:6-8</em>)!  Succinctly put in the wonderful v. 10: in Christ's Obedience (acting as Priest) to the Father's will, His body was offered (Offering) and this (active!) obedience sanctifies us who believe on Him.  This is remarkably similar to <em>John 6:39-40, 51</em>: the Father's will [commission to Christ] is for Christ (<strong>actively</strong>) to be Priest [lose nothing, save believers] <strong>through</strong> the offering of his flesh.  The following is also effectively the same as v. 10 here: <em>"And for their sakes I sanctify myself, that they also might be sanctified through the truth."</em> (<em>John 17:19</em>)</td>
 </tr>
 
 <tr>
@@ -325,7 +325,7 @@ Offering concept is in the very opening sentence of Hebrews!
 <tr>
 <td class="office">OFFERING</td>
 <td class="ref">10:15-18</td>
-<td>The *Jer 31* prophecy is secondarily applied here to show there is no more typical **offering** for sin needed after the final true offering of Christ.</td>
+<td>The <em>Jer 31</em> prophecy is secondarily applied here to show there is no more typical <strong>offering</strong> for sin needed after the final true offering of Christ.</td>
 </tr>
 
 <tr>
@@ -337,7 +337,7 @@ Offering concept is in the very opening sentence of Hebrews!
 <tr>
 <td class="office">OFFERING</td>
 <td class="ref">10:26-29</td>
-<td>Apostasy (joining with the apostate Jews in saying that the Mosaic system with the Aaronic offerings is permanent, as in 7:11 [compare *Gal 2:21*]) means rejection of Christ's death as the **final true offering for sin**, but there is no other sacrifice for sins which will save us (v. 26b)!  Again, treading under foot the Son of God (= crucifying Him afresh [6:6], saying that He was an imposter and deserved to die, so His death was certainly not a true offering) and thus rejecting as unholy the shed blood of Christ which is the foundation of the new covenant (as in 9:16-18) is an unspeakable crime and rejection of the Spirit's testimony which is to be punished more severely than anything under the Old Covenant (v. 29).</td>
+<td>Apostasy (joining with the apostate Jews in saying that the Mosaic system with the Aaronic offerings is permanent, as in 7:11 [compare <em>Gal 2:21</em>]) means rejection of Christ's death as the <strong>final true offering for sin</strong>, but there is no other sacrifice for sins which will save us (v. 26b)!  Again, treading under foot the Son of God (= crucifying Him afresh [6:6], saying that He was an imposter and deserved to die, so His death was certainly not a true offering) and thus rejecting as unholy the shed blood of Christ which is the foundation of the new covenant (as in 9:16-18) is an unspeakable crime and rejection of the Spirit's testimony which is to be punished more severely than anything under the Old Covenant (v. 29).</td>
 </tr>
 
 <tr>
@@ -349,13 +349,13 @@ Offering concept is in the very opening sentence of Hebrews!
 <tr>
 <td class="office">PRIEST + OFFERING + PROPHET</td>
 <td class="ref">12:24-25</td>
-<td>Ye are come to Jesus, the mediator (Priest) of the New Covenant, and to the blood of sprinkling (Offering), which speaks pardon instead of vengeance (which Abel's blood did).  Therefore apostasy is rejection of God speaking directly from Heaven through His Son (v. 25a, 25c) and in particular it is rejection of the only true Priest (24a) and only true propitiation which God has set forth (v. 24b = *Rom 3:25*) and so has much greater punishment than there was for rejection of the earthly mediators through whom God spake at Sinai (v. 19b, 25b) in the Old Covenant.  Identical argument on prophecy to that made in 2:2-3 (as in 1:1).  But the argument is made stronger here because of the simultaneous rejection of the NC Mediator and His pardoning blood; thus apostasy is here stated to be a rejection of Christ as **Prophet, Priest and Offering** at the same time!</td>
+<td>Ye are come to Jesus, the mediator (Priest) of the New Covenant, and to the blood of sprinkling (Offering), which speaks pardon instead of vengeance (which Abel's blood did).  Therefore apostasy is rejection of God speaking directly from Heaven through His Son (v. 25a, 25c) and in particular it is rejection of the only true Priest (24a) and only true propitiation which God has set forth (v. 24b = <em>Rom 3:25</em>) and so has much greater punishment than there was for rejection of the earthly mediators through whom God spake at Sinai (v. 19b, 25b) in the Old Covenant.  Identical argument on prophecy to that made in 2:2-3 (as in 1:1).  But the argument is made stronger here because of the simultaneous rejection of the NC Mediator and His pardoning blood; thus apostasy is here stated to be a rejection of Christ as <strong>Prophet, Priest and Offering</strong> at the same time!</td>
 </tr>
 
 <tr>
 <td class="office">OFFERING</td>
 <td class="ref">13:10</td>
-<td>We have an altar which the Mosaic priests do not have (i.e., we can feast spiritually on the Offering of Christ: eat the flesh and drink the blood of the Son of man [*John 6:53*]; compare the Lord's Supper).</td>
+<td>We have an altar which the Mosaic priests do not have (i.e., we can feast spiritually on the Offering of Christ: eat the flesh and drink the blood of the Son of man [<em>John 6:53</em>]; compare the Lord's Supper).</td>
 </tr>
 
 <tr>
@@ -367,7 +367,7 @@ Offering concept is in the very opening sentence of Hebrews!
 <tr>
 <td class="office">KING + PRIEST + OFFERING</td>
 <td class="ref">13:20</td>
-<td>The God of peace brought again from the dead our Lord Jesus (King: Exaltation; compare *Acts 2:32-36*), that great shepherd of the sheep (Priest + Offering, as in *John 10:11*: *"the good shepherd giveth [Priestly action] his life [Offering] for the sheep"*), through the blood of the everlasting covenant (Offering; His blood ratifies New Covenant as in 9:16-18, 10:26-29).  (Identical idea for whole verse is also in *Phil 2:8-9*: Exaltation is the reward for obedience-unto-death!)</td>
+<td>The God of peace brought again from the dead our Lord Jesus (King: Exaltation; compare <em>Acts 2:32-36</em>), that great shepherd of the sheep (Priest + Offering, as in <em>John 10:11</em>: <em>"the good shepherd giveth [Priestly action] his life [Offering] for the sheep"</em>), through the blood of the everlasting covenant (Offering; His blood ratifies New Covenant as in 9:16-18, 10:26-29).  (Identical idea for whole verse is also in <em>Phil 2:8-9</em>: Exaltation is the reward for obedience-unto-death!)</td>
 </tr>
 
 </table>
