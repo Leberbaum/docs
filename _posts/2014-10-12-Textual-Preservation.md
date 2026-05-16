@@ -36,8 +36,8 @@ underlying Hebrew/Aramaic/Greek text of Scripture here, NOT translations.
 
 I hold to the traditional fundamental model which we can label as:
 
-- PP: Providential Preservation
-- RT: Received/Traditional Text (received by God's people as His Living Word; the Bible itself is a Tradition [literally: something passed down])
+- **PP: Providential Preservation**
+- **RT: Received/Traditional Text** (received by God's people as His Living Word; the Bible itself is a Tradition [literally: something passed down])
 
 This has a SUPERNATURAL element: God has (miraculously) preserved His
 Word through His people through the ages.  So His people always POSSESS
@@ -128,14 +128,14 @@ Some other texts which support all this (especially on delivering God's word to 
 - *Rev 11*: Basic overview: the faithful witnesses (the continuing CHURCH, not just in the time of the Apostles!) possess God's Word (v 1: the reed like a rod) and God gives them POWER to PROPHESY (speak His Word) (v 3) until their TESTIMONY (v 7) ends and the False Church takes over (v 7-10); after a Revival/Reformation (v 11-12), the witnesses return to a wholesome spiritual state based on God's Word and so dwell in the heavenlies (just as the true Church is in such: *Eph 2:6*).  So the true Church (post-apostolic) POSSESSES God's Word and it WITNESSES for Him through that WORD, while it is faithful.  *Zech 4* is similar and connected.  [That mostly follows Ramsey's commentary on Revelation (Banner of Truth); Ramsey takes the Ending of the Testimony (v 7) to mean when the true Church apostatizes and forsakes God's Word and so turns into the False Church.]
 
 
-## (2) Naturalistic (Anti-Providential Preservation) Model
+## (2) Naturalistic (Anti-Providential Preservation) Model: Textual Deism
 
 The OTHER main fundamental model can be called NATURALISTIC and these
 labels can be applied to it:
 
-- APP: Anti-Providential Preservation (one must discover & study ancient manuscripts to try to discover ever new approximations to the lost "original text(s)", so any preserved tradition/transmission which God's people would follow/believe in is dismissed as not "historical" or "scientific")
-- OMO: Original Manuscripts Only (are said to be inspired)
-- TD: Textual Deism (same as OMO: there is NO guaranteed supernatural preserving/living tradition after the "original inspiration")
+- **APP: Anti-Providential Preservation** (one must discover & study ancient manuscripts to try to discover ever new approximations to the lost "original text(s)", so any preserved tradition/transmission which God's people would follow/believe in is dismissed as not "historical" or "scientific")
+- **OMO: Original Manuscripts Only** (are said to be inspired)
+- **TD: Textual Deism** (same as OMO: there is NO guaranteed supernatural preserving/living tradition after the "original inspiration")
 
 This model is 100% NATURALISTIC: it agrees with atheistic "scholars"
 about the supposed randomly corrupted "historical" (purely accidental)
@@ -196,9 +196,11 @@ called the "INSPIRED WORD OF GOD"!
 
 When in this crazy textual mode, many people who call themselves
 "Reformed", "Conservative Christians", etc. explicitly say that the Word
-of God we have is NOT inspired/authoritative, etc. (e.g., that Sam Waldron
-article against exclusive Psalmody: he said the Psalms are not inspired
-anyway because we do not have the original manuscripts).
+of God we have is NOT inspired/authoritative, etc.
+For example, in an article against exclusive Psalmody by Sam Waldron
+[https://content.cbtseminary.org/exclusive-psalmody-4/], the author
+says that the Psalms [and thus all books of the Bible for that matter]
+are NOT inspired anyway because we do not have the original manuscripts).
 
 OMO leads to so many absurdities:
 
