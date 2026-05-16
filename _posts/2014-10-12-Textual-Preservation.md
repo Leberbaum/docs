@@ -205,6 +205,7 @@ Here is a list of mostly obvious texts which support this model:
 
 -------
 
+
 Here are texts that say that God actually preserves His Word within HIS PEOPLE:
 
 - > *Rom 3:1-2*
@@ -261,6 +262,8 @@ Here are texts that say that God actually preserves His Word within HIS PEOPLE:
   > Saying, The scribes and the Pharisees sit in Moses' seat: All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
 
   Jesus said that the leaders of God's people at that time (the Scribes and Pharisees), even despite their own wickedness, still DID have the AUTHORITY equal to Moses whenever they followed his writings (i.e., He assumes they had an infallible copy of God's original Word given to Moses and to be expounded by them, down to every jot & tittle)!
+
+-------------------
 
 Some other texts which support all this (especially on delivering God's word to others in preaching, etc.):
 
