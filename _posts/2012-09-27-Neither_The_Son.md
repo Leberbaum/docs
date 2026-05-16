@@ -6,6 +6,15 @@ date: 2012-09-27
 
 <p style="font-size: 1.25em; color: #555;">By Allan Steel | September 27, 2012</p>
 
+<style>
+  blockquote {
+    border-left: none !important;
+    font-style: normal !important;
+    padding-left: 1.5em !important;
+    color: #111111 !important;
+  }
+</style>
+
 > *Mark 13:32*
 >
 > But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.
