@@ -429,7 +429,7 @@ So the Textual issue is exactly parallel:
 3. Compromisers in churches from late 19th C onwards (e.g., Warfield) who said that God inspired the original manuscripts (only), but then "switched off" and so they then follow (2) completely (so this is yet another form of Deism).
 
 There is also a parallel in Old Testament "Textual Criticism": again,
-most of the "Reformed" churches have overthrown the Reformation here:
+many of the "Reformed" churches have overthrown the Reformation here:
 they follow the atheistic scholars in following unreliable Septuagint
 manuscripts as their chief authority for the OT text (but that is just
 a bunch of unreliable manuscripts from 4th C AD onwards!) instead of
