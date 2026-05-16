@@ -76,56 +76,242 @@ This view is explicitly stated by Westminster Confession of Faith I.8 [my emphas
 
 Here is now a list of mostly obvious texts which support this model:
 
-- *Ps 12:6-7*: Explicitly says that the words of the LORD are pure words and He shall preserve them from this generation for ever.
-- *Ps 102:18*: God's words WRITTEN & PRESERVED for future generations.
-- *Ps 111:6-7*: Ditto.
-- Lots of *Ps 119*.
-- *Mat 4:4*: We must daily live by *EVERY word of God* (so it must be preserved).
-- *Mat 5:17-19* & *Luke 16:17*: EVERY *jot and tittle* of God's Word is preserved and will be enforced!
-- *Mar 13:31* & *Luke 21:33*: Christ's Words will not pass away (stronger than Creation!).  (But how can we be sure that we have ALL of Christ's Words now which He intended to be preserved for His Church?).
-- *Deu 29:29*: God's Word is REVEALED to His people AND following generations (so of course must be preserved with the same authority always).
-- *Rom 15:4* & *1 Cor 9:10* & *10:6*, *Heb 3:7*: things written before were written *FOR US* now, so it is assumed we have those original writings infallibly.
-- *Gal 3:16*: Paul makes argument on grammatical singular vs plural, so assumes that every letter preserved from the ancient text of Genesis, even though he didn't have the original manuscripts!
-- *2 Tim 3:15*: Paul said that Timothy knew the *HOLY SCRIPTURES* from a child, even though Timothy grew up in Asia Minor! (So he didn't have to go to Jerusalem to learn the Scriptures only from special manuscripts [let alone "original" ones] kept there.)  We also don't even know whether Timothy followed a Greek translation or a Hebrew text.
-- *Heb 2:2*: The Words spoken at Sinai were *STEADFAST* (unchanging).
-- *Heb 3:7*: The Holy Spirit SPEAKS (present tense) to us through *Ps 95* (that implies that the words of *Ps 95* were inspired, but the original manuscript of *Ps 95* was not present when Hebrews was written, at least not available to all readers to check!).
-- *1 Pet 1:25*: *The word of the Lord endureth for ever*.
-- *Rev 22:18-19*: A curse on anyone who changes the words (did God really mean that seriously if we say that "textual variants" don't make much difference to doctrine!).  Same thing in *Prov 30:5-6*.
-- *Dan 12:4*: words are shut up and sealed till the end of time.
-- This verse is particularly interesting:
+> *Ps 12:6-7*
+>
+> The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times. Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever.
 
-    > *Deu 17:18*
-    >
-    > And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book out of that which is before the priests the Levites:
+Explicitly says that the words of the LORD are pure words and He shall preserve them from this generation for ever.
 
-    So every new king is commanded to make a fresh copy of "this law" (for his own use) from what the priests and Levites already have.  But "this law" refers to the actual giving of the law which Moses is describing now, so it is taken for granted that the priests and Levites and thus the new king will have "this law" preserved for them!  [BTW, note that the name of the book Deuteronomy is actually taken from this verse: both LXX and Vulgate have Deuteronomion/Deuteronomium in this text for "copy of the law": see [https://www.blueletterbible.org/lxx/deu/17/1/t_conc_170018](https://www.blueletterbible.org/lxx/deu/17/1/t_conc_170018).  A common view that the name of the book refers to the "Second giving of the Law" (by Moses) is incorrect.]
+> *Ps 102:18*
+>
+> This shall be written for the generation to come: and the people which shall be created shall praise the LORD.
+
+God's words WRITTEN & PRESERVED for future generations.
+
+> *Ps 111:7-8*
+>
+> The works of his hands are verity and judgment; all his commandments are sure. They stand fast for ever and ever, and are done in truth and uprightness.
+
+Ditto.
+
+> *Ps 119:89*
+>
+> For ever, O LORD, thy word is settled in heaven.
+
+Lots of similar verses throughout *Ps 119* (e.g., v 152, 160: *Thy word is true from the beginning: and every one of thy righteous judgments endureth for ever.*).
+
+> *Mat 4:4*
+>
+> But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
+
+We must daily live by *EVERY word of God* (so it must be preserved).
+
+> *Mat 5:17-19*
+>
+> Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil. For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled. Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven.
+
+> *Luke 16:17*
+>
+> And it is easier for heaven and earth to pass, than one tittle of the law to fail.
+
+EVERY *jot and tittle* of God's Word is preserved and will be enforced!
+
+> *Mar 13:31* (also *Luke 21:33*)
+>
+> Heaven and earth shall pass away: but my words shall not pass away.
+
+Christ's Words will not pass away (stronger than Creation!).  (But how can we be sure that we have ALL of Christ's Words now which He intended to be preserved for His Church?).
+
+> *Deu 29:29*
+>
+> The secret things belong unto the LORD our God: but those things which are revealed belong unto us and to our children for ever, that we may do all the words of this law.
+
+God's Word is REVEALED to His people AND following generations (so of course must be preserved with the same authority always).
+
+> *Rom 15:4*
+>
+> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
+
+> *1 Cor 10:11* (also *1 Cor 9:10*, *10:6*, *Heb 3:7*)
+>
+> Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.
+
+Things written before were written *FOR US* now, so it is assumed we have those original writings infallibly.
+
+> *Gal 3:16*
+>
+> Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.
+
+Paul makes argument on grammatical singular vs plural, so assumes that every letter preserved from the ancient text of Genesis, even though he didn't have the original manuscripts!
+
+> *2 Tim 3:15*
+>
+> And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.
+
+Paul said that Timothy knew the *HOLY SCRIPTURES* from a child, even though Timothy grew up in Asia Minor! (So he didn't have to go to Jerusalem to learn the Scriptures only from special manuscripts [let alone "original" ones] kept there.)  We also don't even know whether Timothy followed a Greek translation or a Hebrew text.
+
+> *Heb 2:2*
+>
+> For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward;
+
+The Words spoken at Sinai were *STEADFAST* (unchanging).
+
+> *Heb 3:7*
+>
+> Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,
+
+The Holy Spirit SPEAKS (present tense) to us through *Ps 95* (that implies that the words of *Ps 95* were inspired, but the original manuscript of *Ps 95* was not present when Hebrews was written, at least not available to all readers to check!).
+
+> *1 Pet 1:25*
+>
+> But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.
+
+*The word of the Lord endureth for ever*.
+
+> *Rev 22:18-19*
+>
+> For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book: And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.
+
+A curse on anyone who changes the words (did God really mean that seriously if we say that "textual variants" don't make much difference to doctrine!).  Same thing in *Prov 30:5-6* (*Every word of God is pure... Add thou not unto his words, lest he reprove thee, and thou be found a liar.*).
+
+> *Dan 12:4*
+>
+> But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased.
+
+Words are shut up and sealed till the end of time.
+
+This verse is particularly interesting:
+
+> *Deu 17:18*
+>
+> And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book out of that which is before the priests the Levites:
+
+So every new king is commanded to make a fresh copy of "this law" (for his own use) from what the priests and Levites already have.  But "this law" refers to the actual giving of the law which Moses is describing now, so it is taken for granted that the priests and Levites and thus the new king will have "this law" preserved for them!  [BTW, note that the name of the book Deuteronomy is actually taken from this verse: both LXX and Vulgate have Deuteronomion/Deuteronomium in this text for "copy of the law": see [https://www.blueletterbible.org/lxx/deu/17/1/t_conc_170018](https://www.blueletterbible.org/lxx/deu/17/1/t_conc_170018).  A common view that the name of the book refers to the "Second giving of the Law" (by Moses) is incorrect.]
 
 
 Here are texts that say that God actually preserves His Word within HIS PEOPLE:
 
-- *Rom 3:2*: Paul literally says that God ENTRUSTED his Word to His people!
-- *Rom 9:4*: Ditto: the Word given through Moses (giving of Law, Service=worship system) was OWNED by Israel.
-- *Acts 7:38*: Moses passed on God's Word to His people.
-- *Mat 10:40-42*: Receiving the apostles (and their words) is equivalent to receiving Christ himself.
-- *John 17:8*: Christ GAVE the apostles (the foundation of His NT church) God's Words and they RECEIVED them (didn't just calculate for themselves what was accurate or not!).
-- *Eph 3:10*: God's revelation is known through the Church.
-- *Rom 10:14*: The Gospel (God's Word) is known through preachers who are formally sent.
-- *1 Tim 3:15*: The Church is the *PILLAR and GROUND* of God's truth in this world (so certainly possesses His Word).
-- *Matt 23:2-3*: Jesus said that the current leaders of God's people (Pharisees & Scribes), even despite their wickedness, still DID have the AUTHORITY equal to Moses whenever they followed his writings (i.e., He assumes they had an infallible copy of God's original Word given to Moses and to be expounded by them, down to every jot & tittle)!
+> *Rom 3:2*
+>
+> Much every way: chiefly, because that unto them were committed the oracles of God.
+
+Paul literally says that God ENTRUSTED his Word to His people!
+
+> *Rom 9:4*
+>
+> Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;
+
+Ditto: the Word given through Moses (giving of Law, Service=worship system) was OWNED by Israel.
+
+> *Acts 7:38*
+>
+> This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give unto us:
+
+Moses passed on God's Word to His people.
+
+> *Mat 10:40*
+>
+> He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.
+
+Receiving the apostles (and their words) is equivalent to receiving Christ himself (*Mat 10:40-42*).
+
+> *John 17:8*
+>
+> For I have given unto them the words which thou gavest me; and they have received them, and have known surely that I came out from thee, and they have believed that thou didst send me.
+
+Christ GAVE the apostles (the foundation of His NT church) God's Words and they RECEIVED them (didn't just calculate for themselves what was accurate or not!).
+
+> *Eph 3:10*
+>
+> To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God,
+
+God's revelation is known through the Church.
+
+> *Rom 10:14*
+>
+> How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?
+
+The Gospel (God's Word) is known through preachers who are formally sent.
+
+> *1 Tim 3:15*
+>
+> But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.
+
+The Church is the *PILLAR and GROUND* of God's truth in this world (so certainly possesses His Word).
+
+> *Matt 23:2-3*
+>
+> Saying, The scribes and the Pharisees sit in Moses' seat: All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
+
+Jesus said that the current leaders of God's people (Pharisees & Scribes), even despite their wickedness, still DID have the AUTHORITY equal to Moses whenever they followed his writings (i.e., He assumes they had an infallible copy of God's original Word given to Moses and to be expounded by them, down to every jot & tittle)!
 
 Some other texts which support all this (especially on delivering God's word to others in preaching, etc.):
 
-- *Isa 43:10*: *Ye are **MY** WITNESSES* (but how can we be witnesses to the Living God if we do not actually possess the exact message which He wants us to witness to others about?).
-- *Acts 22:15*: Paul will be Christ's WITNESS (pass on His words) to all men (like *Is 43:10*).
-- *Matt 28:19-20*: Christ is not just talking to the original Apostles alone but to the whole successive NT church (He says to go to all nations and He is present till end of the World).  So He commands the successive NT Church to teach the nations to OBSERVE ALL THINGS *"whatsoever I have commanded you"*, thus His actual words are assumed to be possessed/preserved in the Church (with the same divine authority as when He spoke on earth).
-- *1 Cor 11:4-5*: The people of God (both men & women) actually PROPHESY (formally utter God's Inspired Word) during public worship (primarily in the singing of the Psalms); still true after the Apostolic Age whenever the Psalms are sung in public worship!
-- *2 Cor 5:20*: God's preachers (not just Apostles) are AMBASSADORS.  An ambassador for a king only passes on the message from the king.  The authority in the message is identical even though it is only the messenger who passes it on: it is 100% equivalent in authority to the case where the king himself says his words directly.  So God's people who preach are 100% in the place of God here; have the same authority as God Himself (in so far as they follow God's word faithfully, of course, but how can they do that if only the "original manuscripts" have that inspiration and authority?).
-- *2 Cor 4:7*: The *TREASURE* (God's Word) is *IN* earthen vessels: weak, sinful preachers who are fallible in themselves, but the *EXCELLENCY OF THE POWER* (including the Inspiration and Divine Authority of the Word) is of God, so the fact that it is in the fallible earthen vessels does not diminish its Divine excellency.
-- *Acts 9:15*: Christ said that Paul was a *CHOSEN VESSEL*: this is just the same as an ambassador/messenger: Paul only carried the Words of Christ which passed through him.
-- *John 10:34*: *"I said, Ye are GODS"* (=*Ps 82:6*): that is, in the place of God.  *"If he called them gods... unto whom the word of God came, and the scripture cannot be broken..."* -- so the argument is that even sinful messengers appointed by God were authoritatively passing on God's message/words, so the Pharisees' rejection here of Jesus was much worse (because He is so much above those sinful but authenticated messengers who were in the place of God).  But those messengers (who in the Psalm are the judges whose task was to administer justly the Law originally delivered through Moses) must have had the true word of God accurately preserved for them to use it/pass it on!
-- *Acts 7:53*: Stephen's hearers are identified with the original hearers at Sinai.  So this is an even stronger example of the LIVING WORD being preserved/unchanged since first uttered; not just the actual words are assumed preserved, but the present hearers are treated as if THEY THEMSELVES heard these words directly at Sinai.  (Similar to *Acts 7:38*, *Rom 3:2*.)
-- *Rev 10:9*: God's Word is certainly possessed by His preachers (they eat it!).
-- *Rev 11*: Basic overview: the faithful witnesses (the continuing CHURCH, not just in the time of the Apostles!) possess God's Word (v 1: the reed like a rod) and God gives them POWER to PROPHESY (speak His Word) (v 3) until their TESTIMONY (v 7) ends and the False Church takes over (v 7-10); after a Revival/Reformation (v 11-12), the witnesses return to a wholesome spiritual state based on God's Word and so dwell in the heavenlies (just as the true Church is in such: *Eph 2:6*).  So the true Church (post-apostolic) POSSESSES God's Word and it WITNESSES for Him through that WORD, while it is faithful.  *Zech 4* is similar and connected.  [That mostly follows Ramsey's commentary on Revelation (Banner of Truth); Ramsey takes the Ending of the Testimony (v 7) to mean when the true Church apostatizes and forsakes God's Word and so turns into the False Church.]
+> *Isa 43:10*
+>
+> Ye are my witnesses, saith the LORD, and my servant whom I have chosen: that ye may know and believe me, and understand that I am he: before me there was no God formed, neither shall there be after me.
+
+*Ye are **MY** WITNESSES* (but how can we be witnesses to the Living God if we do not actually possess the exact message which He wants us to witness to others about?).
+
+> *Acts 22:15*
+>
+> For thou shalt be his witness unto all men of what thou hast seen and heard.
+
+Paul will be Christ's WITNESS (pass on His words) to all men (like *Is 43:10*).
+
+> *Matt 28:19-20*
+>
+> Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.
+
+Christ is not just talking to the original Apostles alone but to the whole successive NT church (He says to go to all nations and He is present till end of the World).  So He commands the successive NT Church to teach the nations to OBSERVE ALL THINGS *"whatsoever I have commanded you"*, thus His actual words are assumed to be possessed/preserved in the Church (with the same divine authority as when He spoke on earth).
+
+> *1 Cor 11:4-5*
+>
+> Every man praying or prophesying, having his head covered, dishonoureth his head. But every woman that prayeth or prophesieth with her head uncovered dishonoureth her head: for that is even all one as if she were shaven.
+
+The people of God (both men & women) actually PROPHESY (formally utter God's Inspired Word) during public worship (primarily in the singing of the Psalms); still true after the Apostolic Age whenever the Psalms are sung in public worship!
+
+> *2 Cor 5:20*
+>
+> Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ's stead, be ye reconciled to God.
+
+God's preachers (not just Apostles) are AMBASSADORS.  An ambassador for a king only passes on the message from the king.  The authority in the message is identical even though it is only the messenger who passes it on: it is 100% equivalent in authority to the case where the king himself says his words directly.  So God's people who preach are 100% in the place of God here; have the same authority as God Himself (in so far as they follow God's word faithfully, of course, but how can they do that if only the "original manuscripts" have that inspiration and authority?).
+
+> *2 Cor 4:7*
+>
+> But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.
+
+The *TREASURE* (God's Word) is *IN* earthen vessels: weak, sinful preachers who are fallible in themselves, but the *EXCELLENCY OF THE POWER* (including the Inspiration and Divine Authority of the Word) is of God, so the fact that it is in the fallible earthen vessels does not diminish its Divine excellency.
+
+> *Acts 9:15*
+>
+> But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:
+
+Christ said that Paul was a *CHOSEN VESSEL*: this is just the same as an ambassador/messenger: Paul only carried the Words of Christ which passed through him.
+
+> *John 10:34-35*
+>
+> Jesus answered them, Is it not written in your law, I said, Ye are gods? If he called them gods, unto whom the word of God came, and the scripture cannot be broken;
+
+*"I said, Ye are GODS"* (=*Ps 82:6*): that is, in the place of God.  *"If he called them gods... unto whom the word of God came, and the scripture cannot be broken..."* -- so the argument is that even sinful messengers appointed by God were authoritatively passing on God's message/words, so the Pharisees' rejection here of Jesus was much worse (because He is so much above those sinful but authenticated messengers who were in the place of God).  But those messengers (who in the Psalm are the judges whose task was to administer justly the Law originally delivered through Moses) must have had the true word of God accurately preserved for them to use it/pass it on!
+
+> *Acts 7:53*
+>
+> Who have received the law by the disposition of angels, and have not kept it.
+
+Stephen's hearers are identified with the original hearers at Sinai.  So this is an even stronger example of the LIVING WORD being preserved/unchanged since first uttered; not just the actual words are assumed preserved, but the present hearers are treated as if THEY THEMSELVES heard these words directly at Sinai.  (Similar to *Acts 7:38*, *Rom 3:2*.)
+
+> *Rev 10:9*
+>
+> And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter, but it shall be as sweet as honey in thy mouth.
+
+God's Word is certainly possessed by His preachers (they eat it!).
+
+> *Rev 11:1, 3, 7*
+>
+> And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein... And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth... And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them.
+
+Basic overview: the faithful witnesses (the continuing CHURCH, not just in the time of the Apostles!) possess God's Word (v 1: the reed like a rod) and God gives them POWER to PROPHESY (speak His Word) (v 3) until their TESTIMONY (v 7) ends and the False Church takes over (v 7-10); after a Revival/Reformation (v 11-12), the witnesses return to a wholesome spiritual state based on God's Word and so dwell in the heavenlies (just as the true Church is in such: *Eph 2:6*).  So the true Church (post-apostolic) POSSESSES God's Word and it WITNESSES for Him through that WORD, while it is faithful.  *Zech 4* is similar and connected.  [That mostly follows Ramsey's commentary on Revelation (Banner of Truth); Ramsey takes the Ending of the Testimony (v 7) to mean when the true Church apostatizes and forsakes God's Word and so turns into the False Church.]
 
 
 ## (2) Naturalistic (Anti-Providential Preservation) Model: Textual Deism
