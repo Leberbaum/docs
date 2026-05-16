@@ -65,7 +65,7 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     > me are of thee....  For I have given unto them THE WORDS WHICH
     > THOU GAVEST ME...  I have given them THY WORD...
 
-    [Compare Heb 1:1-2, where it is clearly stated that God has **spoken through His Son**.]
+    [Compare Heb 1:1-2, where it is clearly stated that God has **spoken through His Son**; this is repeated in the last point.]
 
 2.  Isaiah 50:4-9 is clearly a Messianic prophecy (vss 6-7 are alluded to in
     Luke 9:51: *He set His face as a flint* to go to the appointed suffering).
@@ -159,6 +159,8 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     we are to be watchful and ready at any stage of our life: these warnings
     **are** revealed by Christ here).
 
+    Most significantly, there are some other important passages in the NT
+    which reinforce this idea.
     Tying the Father with **timing** is clearly stated here:
 
     > *Acts 1:7*
@@ -182,11 +184,14 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     The "he"/"his" in verse 15 seems to refer to the Father, so it can
     be read as:
 
-    > Which in his [the Father's] times he [The Father] shall shew
+    > ... until the appearing of our Lord Jesus Christ, Whom in his [the Father's] times he [The Father] shall shew
     > [Christ in His Appearing]
 
+    So this text explicitly says that the **FATHER** will show Christ
+    in His Appearing at the **FATHER's appointed time**.
+
     So again, this highlights that the FATHER controls the timing.
-    See verses 15--16 here [Jamison, Fausset Brown Commentary](https://www.studylight.org/commentaries/eng/jfb/1-timothy-6.html)
+    See comments on verses 15--16 here [Jamison, Fausset Brown Commentary](https://www.studylight.org/commentaries/eng/jfb/1-timothy-6.html)
 
     In particular, that says on v 15:
 
@@ -194,7 +199,8 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     >
     > he shall show-"display": an expression appropriate in reference to His "APPEARING," which is stronger than His "coming," and implies its visibility; "manifest": make visible (compare Acts 3:20): "He" is the Father (1 Timothy 6:16).
 
-    Similarly here:
+    A similar reference to the **FATHER** controlling the timing
+    (this time of the first coming of Christ) is here:
 
     > *Titus 1:2-3*
     >
@@ -203,7 +209,11 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     > IN DUE TIMES manifested his word through preaching, which is
     > committed unto me according to the commandment of God our Saviour;
 
-    Following the JFB Commentary reference above, this passage also seems to match:
+    A very similar point is made here (The Father sending His at the RIGHT time):
+
+    > *Gal4:4* But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,
+
+    Following the JFB Commentary reference above, the Titus 1:2-3 passage also seems to match this one:
 
     > *1 Tim 2:3-6*
     >
@@ -215,18 +225,20 @@ Below I list key points made by Brown on this verse and add some other thoughts 
 
     That is, the main subject/author of the things in this whole
     passage in 1 Tim 2 is the Father (God our Saviour) so the "testified in due
-    time" perhaps points back to the FATHER'S will that this message of
+    time" perhaps points back to the **FATHER'S will** that this message of
     salvation (with Christ as the one mediator) is testified/revealed NOW
     (the due time) because the Father in particular would have all men
     to be saved, and to come unto the knowledge of the truth.
 
-    But the middle part is highlighting the role of Christ as the way to the Father, as expressed in these famous texts of John: "No man hath seen
-    God [The FATHER] at any time; the only begotten Son, which is in
-    the bosom of the Father, he hath DECLARED him." / "I am the door.
-    No man cometh to the Father but by me".  So in this 1 Tim 2 passage,
-    the Father TESTIFIES (now in due time) that access to Him (who is
-    unapproachable by sinful man) is ONLY through His Son (just like
-    the Holy of Holies comparison in Heb 9!).
+    But the middle part is also highlighting the role of Christ as the
+    way to the Father, as expressed in these famous texts of John:
+    "*No man hath seen God [The FATHER] at any time; the only begotten
+    Son, which is in the bosom of the Father, he hath DECLARED him.*" /
+    "*I am the door.  No man cometh to the Father but by me*".  So these
+    match the 1 Tim 2 passage, which says that the Father TESTIFIES (now
+    in due time) that access to Him (who is unapproachable by sinful man)
+    is ONLY through His Son (just like the Holy of Holies comparison in
+    Heb 9!).
 
     Again, "No man hath seen God at any time" closely matches what is said of
     the Father in the 1 Tim 6 passage mentioned above:
@@ -240,7 +252,7 @@ Below I list key points made by Brown on this verse and add some other thoughts 
 
     > *Heb 1:1-2*
     >
-    > God [The Father], who at SUNDRY TIMES and in divers manners spake in
+    > God [The Father], who **at SUNDRY TIMES** and in divers manners spake in
     > time past unto the fathers by the prophets, Hath in **THESE LAST DAYS
     > SPOKEN UNTO US BY HIS SON**...
 
