@@ -210,7 +210,7 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     > IN DUE TIMES manifested his word through preaching, which is
     > committed unto me according to the commandment of God our Saviour;
 
-    A very similar point is made here (The Father sending His at the RIGHT time):
+    A very similar point is made here (The Father sending His Son at the RIGHT time):
 
     > *Gal 4:4* But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,
 
