@@ -190,9 +190,8 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     So this text explicitly says that the **FATHER** will show Christ
     in His Appearing at the **FATHER's appointed time**.
 
-    So again, this highlights that the FATHER controls the timing.
-    See comments on verses 15--16 here [Jamison, Fausset Brown Commentary](https://www.studylight.org/commentaries/eng/jfb/1-timothy-6.html)
-
+    Again, this highlights that the FATHER controls the timing.
+    See comments on verses 15--16 here [Jamison, Fausset Brown Commentary](https://www.studylight.org/commentaries/eng/jfb/1-timothy-6.html).
     In particular, that says on v 15:
 
     > 15. in his times-Greek, "His own [fitting] times". The plural implies successive stages in the manifestation of the kingdom of God, each having its own appropriate time, the regulating principle and knowledge of which rests with the Father (1 Timothy 2:6; 2 Timothy 1:9; Titus 1:3; Hebrews 1:1).
@@ -211,9 +210,9 @@ Below I list key points made by Brown on this verse and add some other thoughts 
 
     A very similar point is made here (The Father sending His at the RIGHT time):
 
-    > *Gal4:4* But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,
+    > *Gal 4:4* But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,
 
-    Following the JFB Commentary reference above, the Titus 1:2-3 passage also seems to match this one:
+    Following the JFB Commentary reference above, the Titus 1:2-3 passage also seems to match the following one too:
 
     > *1 Tim 2:3-6*
     >
