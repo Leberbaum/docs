@@ -497,7 +497,7 @@ is only approximate ("great accuracy") and not 100% certain:
 > by the absence of the autographs. We further deny that this absence
 > renders the assertion of Biblical inerrancy invalid or irrelevant.
 
-!!!
+Sadly, explicit OMO and Textual Deism here!!!
 
 This explains the background and lists some "Notable signers":
 [https://en.wikipedia.org/wiki/Chicago_Statement_on_Biblical_Inerrancy](https://en.wikipedia.org/wiki/Chicago_Statement_on_Biblical_Inerrancy)
