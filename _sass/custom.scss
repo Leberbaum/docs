@@ -1,11 +1,7 @@
----
----
-@import "minima";
-
 /* Global override for biblical text blockquotes */
 blockquote {
     border-left: none !important;
     font-style: normal !important;
     padding-left: 1.5em !important;
-    color: #111111 !important; /* Restores text to standard dark color instead of muted gray */
+    color: #111111 !important;
 }
