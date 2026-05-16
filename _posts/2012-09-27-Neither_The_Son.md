@@ -249,6 +249,25 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     > Who only hath immortality, dwelling in the light WHICH
     > NO MAN CAN APPROACH UNTO; whom no man hath seen, nor can see
 
+    This well-known passage on the Resurrection also speaks clearly
+    of the **SUPREMACY** of the Father (even over Christ) as to the
+    order of events which are yet to come (and the timing is of course
+    included).
+
+    > *1 Cor 15:24--28*
+    >
+    > Then cometh the end, when he [CHRIST] shall have delivered up the kingdom to
+    > God, even the Father; when he shall have put down all rule and all
+    > authority and power.
+    > For he [CHRIST] must reign, till he hath put all enemies under his feet.
+    > The last enemy that shall be destroyed is death.  For he [THE FATHER] hath
+    > put all things under his [CHRIST'S] feet. But when he [THE FATHER] saith all things are
+    > put under him, it is manifest that he [THE FATHER] is excepted, which did
+    > put all things under him [CHRIST].  And when all things shall be subdued
+    > unto him, then shall the Son also himself be subject unto him [THE FATHER]
+    > that put all things under him, that God may be all in all.
+
+
     Finally, this aspect of the timing also connects with the opening of Hebrews here:
 
     > *Heb 1:1-2*
@@ -259,7 +278,3 @@ Below I list key points made by Brown on this verse and add some other thoughts 
 
     Yet again, we are told that **the Father** is controlling the **times** and
     especially the times involving His Son.
-
-    [1 Cor 15:24 and 28 also speak of the supremacy of the Father when
-    all things are finally delivered to Him (even by Christ) at the
-    Resurrection.]
