@@ -104,7 +104,7 @@ Here is now a list of mostly obvious texts which support this model:
   >
   > But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
 
-  We must daily live by *EVERY word of God* (so it must be preserved).
+  We must daily live by *EVERY word of God* (so it must be preserved if we are to do that daily in present age!).
 
 - > *Mat 5:17-19*
   >
@@ -287,7 +287,7 @@ Some other texts which support all this (especially on delivering God's word to 
   >
   > But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:
 
-  Christ said that Paul was a *CHOSEN VESSEL*: this is just the same as an ambassador/messenger: Paul only carried the Words of Christ which passed through him.
+  Christ said that Paul was a *CHOSEN VESSEL* to bear His name.  This is just the same as an ambassador/messenger: Paul only carried the Words of Christ which passed through him.
 
 - > *John 10:34-35*
   >
@@ -424,20 +424,6 @@ coming to consider different families of texts, etc., like the small
 number of corrupt Egyptian manuscripts which were promoted to great
 prominence by Deists and then German liberals, etc. because those groups
 had an agenda of denying the Deity of Christ, amongst other motivations.
-
-Finally, a related issue (moving beyond the textual base issue) where
-following 19th Century German Liberalism has led to rejection of the
-Reformation: the re-interpretation of Greek and Hebrew words (this is
-even separate from the general issue of accuracy of translation into
-English, say).  Here again the general professed "Reformed" world has
-followed German liberalism and rejected the traditional Reformation
-MEANING of Greek/Hebrew words in the original texts (i.e., in the
-original languages) which stood for centuries.  For example, the
-traditional Reformed understanding of Hebrew "Sheol" and Greek "Hades"
-have been redefined by German infidels and then by most "Evangelicals"
-(in the original languages!), so that most modern English Bible versions
-have removed "Hell" fully from the Old Testament, and partly from the
-New Testament.
 
 Some other good quotes I found on the net:
 
