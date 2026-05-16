@@ -74,7 +74,9 @@ This view is explicitly stated by Westminster Confession of Faith I.8 [my emphas
 > controversies of religion, the church is finally to appeal unto
 > them...
 
-Here is now a list of mostly obvious texts which support this model:
+-------
+
+Here is a list of mostly obvious texts which support this model:
 
 - > *Ps 12:6-7*
   >
@@ -196,11 +198,12 @@ Here is now a list of mostly obvious texts which support this model:
 
   By the way, note that the name of the book
   Deuteronomy is actually taken from this verse: both the Septuagint
-  and Vulgate have the mistranslation *Deuteronomion/Deuteronomium* [=Second Law] in this text where the Hebrew has *mishneh ha-torah ha-zot*, which accurately translates to "a copy of this law.".   See the Septuagint text
+  and Vulgate have the mistranslation *Deuteronomion/Deuteronomium* [="Second Law"] in this text where the Hebrew has *mishneh ha-torah ha-zot*, which accurately translates to "a copy of this law.".   See the Septuagint text
   [here](https://www.blueletterbible.org/lxx/deu/17/1/t_conc_170018).
   So the common view that the name of the book refers to the "Second giving
   of the Law" (by Moses) is wrong.
 
+-------
 
 Here are texts that say that God actually preserves His Word within HIS PEOPLE:
 
