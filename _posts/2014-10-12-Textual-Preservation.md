@@ -469,7 +469,7 @@ Some other good quotes I found on the net:
 
 ## The Chicago Statement on Biblical Inerrancy (1978)
 
-Text here: [https://www.etsjets.org/files/documents/Chicago_Statement.pdf](https://www.etsjets.org/files/documents/Chicago_Statement.pdf)
+Text here: [https://www.etsjets.org/files/documents/Chicago_Statement.pdf](https://library.dts.edu/Pages/TL/Special/ICBI_1.pdf)
 
 Article VI first looks fine:
 
