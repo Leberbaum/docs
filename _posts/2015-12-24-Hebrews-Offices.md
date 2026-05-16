@@ -38,7 +38,7 @@ date: 2015-12-24
   }
 </style>
 
-[**This is an excerpt from a book I am writing on the Biblical Covenants.**]
+[**This is an excerpt from a book I have been writing on the Biblical Covenants.**]
 
 ## Introduction
 
