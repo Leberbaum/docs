@@ -483,7 +483,7 @@ Article VI first looks fine:
 
 But then Article X destroys this, because it says we never have the
 original ("autographic") inspired text, so what can be "ascertained"
-is only approximate ("great accuracy") and not 100% certain:
+now is only approximate ("great accuracy") and not 100% certain:
 
 > *Article X*
 >
