@@ -65,7 +65,7 @@ order of Aaron), while the victims which were offered were involuntarily
 slain animals,
 but these two types are merged in the one Person in the New Covenant!
 
-Too often Christ's death is talked/written about as purely a
+Often Christ's death is talked/written about as purely a
 **death** (or perhaps even as an **offering/sacrifice** for sin), without it being
 tied to His **priestly action** during this death; i.e., His agency
 in performing this offering.  On the other hand,
@@ -76,7 +76,7 @@ hammers the point that Christ's
 Priestly action was **reflexive**: i.e., it involved **Christ offering Himself**
 in His own death!
 
-As brought out by Hugh Martin's writing (especially in *The Atonement*), Christ's **obedience** during
+As brought out by Hugh Martin's writings (especially in *The Atonement*), Christ's **obedience** during
 His death should be seen as 100% **Priestly Action**.  That is, the **Death of
 Christ itself** is 100% as a passive victim and is thus a passive
 Offering for
