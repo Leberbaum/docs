@@ -249,9 +249,10 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     > Who only hath immortality, dwelling in the light WHICH
     > NO MAN CAN APPROACH UNTO; whom no man hath seen, nor can see
 
-    This well-known passage on the Resurrection also speaks clearly
+    The following well-known passage on the Final
+    Resurrection also speaks clearly
     of the **SUPREMACY** of the Father (even over Christ) as to the
-    order of events which are yet to come (and the timing is of course
+    ordering of events which are yet to come (and the timing is of course
     included).
 
     > *1 Cor 15:24--28*
