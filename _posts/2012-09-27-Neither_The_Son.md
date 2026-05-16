@@ -11,7 +11,7 @@ date: 2012-09-27
     border-left: none !important;
     font-style: normal !important;
     padding: 15px 20px !important;      /* Adds nice breathing room inside the box */
-    background-color: #f5f5f5 !important; /* Soft, light gray background */
+    background-color: #ececec !important; /* Soft, light gray background */
     color: #111111 !important;
     border-radius: 4px;                  /* Optional: Slightly rounds the corners for a clean look */
   }
