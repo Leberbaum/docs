@@ -68,7 +68,7 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     [Compare Heb 1:1-2, where it is clearly stated that God has **spoken through His Son**.]
 
 2.  Isaiah 50:4-9 is clearly a Messianic prophecy (vss 6-7 are alluded to in
-    Luke 9:51: He set His face as a flint to go to the appointed suffering).
+    Luke 9:51: *He set His face as a flint* to go to the appointed suffering).
     Now in the second half of verse 4 of the prophecy, the Lord Jesus effectively
     "represents Himself as receiving His instructions daily, being
     each morning instructed what to communicate for the day" [Brown]:
@@ -87,18 +87,18 @@ Below I list key points made by Brown on this verse and add some other thoughts 
 
 3.  In Mark 13:32, the divine title of "The Son" is joined with the "The
     Father", so if there were any "literal ignorance" here, then it would
-    be true of THE divine Son too (i.e., must be predicated of Divinity,
+    be true of **the divine Son** too (i.e., must be predicated of Divinity,
     not of humanity)!  The expression "The Father and the Son" (with minor
     variants, and sometimes with "the Holy Spirit" added) is a common formula
-    throughout the NT (e.g, Matt 11:27, Matt 28:19, 1 John 2:22, 1 John 2:23,
+    throughout the NT (e.g., Matt 11:27, Matt 28:19, 1 John 2:22, 1 John 2:23,
     2 John 1:3, 9), and whenever "The Son" is mentioned with "The Father",
     it clearly refers to the **divine Second Person of the Godhead**.
 
     Furthermore, in this verse there is a clear gradation: first "man",
     then "the angels" (who are emphasized to be in Heaven, and so above men
     on earth), and **then** comes "the Son".  So to suggest that an "ignorant
-    humanity" is indicated by the divine title "The Son" here also wrecks
-    this gradation: The Son is clearly represented as **superior** to the
+    humanity" is indicated by the divine title "The Son" here also totally
+    wrecks this gradation! The Son is clearly represented as **superior** to the
     angels in Heaven here (while an "ignorant separated humanity" is not)!
 
     Also, the whole of this chapter, leading up to this climax, is
