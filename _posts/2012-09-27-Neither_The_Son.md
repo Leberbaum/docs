@@ -142,14 +142,17 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     that the revelation of the exact timing is **not** part of the Lord
     Jesus' commission from the Father, it makes a lot of sense that
     this fact is deliberately kept secret from everyone on earth: it
-    discourages speculation and reinforces the need for watchfulness, etc.
+    discourages speculation and reinforces the need for watchfulness, etc.;
+    (together with the critical role of the Father explained in the next point).
 
     (The expression "not knowing" is also used in Matt 7:23: *And then will I profess unto them, I never knew you: depart from me, ye that work iniquity*.  Here it of course does not refer to literal ignorance but the fact that the Lord Jesus will not **recognize/acknowledge** such false professors as ever being his genuine disciples.)
 
-6.  The determination and revelation of the **TIMING** of future events seems
+6.  The **determination and revelation** of the **TIMING** of future events seems
     to be explicitly reserved for **The Father**.  First of all, this fact
     is clearly stated in this Olivet discourse text which we are looking
-    at (parallel in Matthew 24:36) [my main point].  So that is perhaps
+    at (parallel in Matthew 24:36) [my main point is that is the simple
+    meaning of this statement!].
+    So that is perhaps
     why there is such a extremely strong statement here (that **only**
     the Father knows) because it involves the **timing** of a future event
     (and not the various warnings and details about events to come for which
