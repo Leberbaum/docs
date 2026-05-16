@@ -10,8 +10,10 @@ date: 2012-09-27
   blockquote {
     border-left: none !important;
     font-style: normal !important;
-    padding-left: 1.5em !important;
+    padding: 15px 20px !important;      /* Adds nice breathing room inside the box */
+    background-color: #f5f5f5 !important; /* Soft, light gray background */
     color: #111111 !important;
+    border-radius: 4px;                  /* Optional: Slightly rounds the corners for a clean look */
   }
 </style>
 
@@ -95,7 +97,7 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     on earth), and **then** comes "the Son".  So to suggest that an "ignorant
     humanity" is indicated by the divine title "The Son" here also wrecks
     this gradation: The Son is clearly represented as **superior** to the
-    angels in Heaven here (while an "ignorant separated humannity" is not)!
+    angels in Heaven here (while an "ignorant separated humanity" is not)!
 
     Also, the whole of this chapter, leading up to this climax, is
     a Divine pronouncement of judgment, with detailed predictions and
