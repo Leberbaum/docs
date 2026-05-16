@@ -277,5 +277,5 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     > time past unto the fathers by the prophets, Hath IN THESE LAST DAYS
     > SPOKEN UNTO US BY HIS SON...
 
-    Yet again, we are told that **the Father** is controlling the **times** and
-    especially the times involving His Son.
+    Yet again, we are told that **THE FATHER** is controlling the **TIMES** and
+    especially the times involving His Son!
