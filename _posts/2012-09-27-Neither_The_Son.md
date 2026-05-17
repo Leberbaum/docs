@@ -141,13 +141,13 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     Why is it supposedly mentioned for this one prediction alone???
 
     In contrast, for the view that the "not knowing" refers to the fact
-    that the revelation of the exact timing is **not** part of the Lord
+    that the revelation of the **exact timing** is **not** part of the Lord
     Jesus' commission from the Father, it makes a lot of sense that
     this fact is deliberately kept secret from everyone on earth: it
     discourages speculation and reinforces the need for watchfulness, etc.;
     (together with the critical role of the Father explained in the next point).
 
-    (The expression "not knowing" is also used in Matt 7:23: *And then will I profess unto them, I never knew you: depart from me, ye that work iniquity*.  Here it of course does not refer to literal ignorance but the fact that the Lord Jesus will not **recognize/acknowledge** such false professors as ever being his genuine disciples.)
+    (The expression "not knowing" is also used in Matt 7:23: *And then will I profess unto them, I never knew you: depart from me, ye that work iniquity*.  Here it of course does not refer to literal ignorance but the fact that the Lord Jesus will not **recognize/acknowledge** such false professors as ever having been his genuine disciples.)
 
 6.  The **determination and revelation** of the **TIMING** of future events seems
     to be explicitly reserved for **The Father**.  First of all, this fact
