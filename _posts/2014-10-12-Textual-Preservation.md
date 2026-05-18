@@ -198,7 +198,7 @@ Here is a list of mostly obvious texts which support this model:
 
   By the way, note that the name of the book
   Deuteronomy is actually taken from this verse: both the Septuagint
-  and Vulgate have the mistranslation *Deuteronomion/Deuteronomium* [="Second Law"] in this text where the Hebrew has *mishneh ha-torah ha-zot*, which accurately translates to "a copy of this law.".   See the Septuagint text
+  and Vulgate have the mistranslation *Deuteronomion/Deuteronomium* [="Second Law"] in this text where the Hebrew has *mishneh ha-torah ha-zot*, which accurately translates to "a copy of this law".   See the Septuagint text
   [here](https://www.blueletterbible.org/lxx/deu/17/1/t_conc_170018).
   So the common view that the name of the book refers to the "Second giving
   of the Law" (by Moses) is wrong.

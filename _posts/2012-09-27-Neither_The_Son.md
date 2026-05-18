@@ -44,7 +44,7 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     > above all.  And WHAT HE HATH SEEN AND HEARD, that he testifieth;
     > and no man receiveth his testimony.
 
-    > *John7:16*
+    > *John 7:16*
     >
     > Jesus answered them, and said, My doctrine is NOT MINE, BUT HIS THAT SENT ME.
 
