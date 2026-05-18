@@ -203,6 +203,11 @@ Here is a list of mostly obvious texts which support this model:
   So the common view that the name of the book refers to the "Second giving
   of the Law" (by Moses) is wrong.
 
+  But again: how can anyone have a copy of God's law (originally delivered
+  to Moses), without a belief that God has providentially preserved it
+  in ANY age?  Any original physical documents from
+  Moses' time should not matter if we live by faith.
+
 -------
 
 
