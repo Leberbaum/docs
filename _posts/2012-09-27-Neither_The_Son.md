@@ -10,10 +10,14 @@ date: 2012-09-27
   blockquote {
     border-left: none !important;
     font-style: normal !important;
+    font-weight: 400 !important;
     padding: 15px 20px !important;      /* Adds nice breathing room inside the box */
     background-color: #ececec !important; /* Soft, light gray background */
-    color: #111111 !important;
+    color: #444444 !important;
     border-radius: 4px;                  /* Optional: Slightly rounds the corners for a clean look */
+  }
+  blockquote strong, blockquote b {
+    font-weight: 600 !important;
   }
 </style>
 
