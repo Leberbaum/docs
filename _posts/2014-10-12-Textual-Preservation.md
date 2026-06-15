@@ -1,5 +1,5 @@
 ---
-title: "It's All in the Models!  Providential Preservation versus Textual Deism"
+title: "Start with the Models!  Providential Preservation versus Textual Deism"
 author: Allan Steel
 date: 2014-10-12
 ---
@@ -415,8 +415,8 @@ of God we have is NOT inspired/authoritative, etc.
 For example,
 [in an article against exclusive Psalmody](https://content.cbtseminary.org/exclusive-psalmody-4/),
 the author
-says that the Psalms [and thus all books of the Bible for that matter]
-are NOT inspired anyway because we do not have the original manuscripts).
+says that the Psalms (and thus all books of the Bible by implication!)
+are NOT inspired anyway because we do not have the original manuscripts.
 
 OMO leads to so many absurdities:
 
@@ -433,9 +433,9 @@ basically 3 models/groups:
 
 So the Textual issue is exactly parallel:
 
-1. Traditional Providential Preservation (God's Inspired Word always there)
+1. Traditional Providential Preservation (God's Inspired Word always has been possessed by His people)
 2. Atheistic (random naturalistic) Model for Transmission with no place for God (originally promoted by Deists in 17th C, became common in 19th C through German liberals, then promoted in England by Westcott & Hort, etc., then everywhere)
-3. Compromisers in churches from late 19th C onwards (e.g., Warfield) who said that God inspired the original manuscripts (only), but then "switched off" and so they then follow (2) completely (so this is yet another form of Deism).
+3. Compromisers in churches from late 19th C onwards (e.g., Warfield) who said that God inspired the original manuscripts (only), but then "switched off" and so they then follow (2) for "determining" the best approximation to the "original" test of the Bible (so this is yet another form of Deism).
 
 There is also a parallel in Old Testament "Textual Criticism": again,
 many of the "Reformed" churches have overthrown the Reformation here:
