@@ -28,7 +28,7 @@ date: 2012-09-27
 
 For the expression "neither the Son" in Mark 13:32 there is a very popular interpretation which says that the Lord Jesus was "ignorant as a man" (whatever that means) on the actual timing of "that day and that hour" which He had been speaking about (and giving authoritative Divine commands to His disciples on).
 
-Now I never considered this view conceivable in the slightest.  I believe that a much better interpretation is to take the text as meaning that the **REVELATIONOF THE TIMING**  of "that day and that hour" was not part of the **COMMISSION** given to the Lord Jesus by His Father when He was sent into this world.
+Now I never considered this view conceivable in the slightest.  I believe that a much better interpretation is to take the text as meaning that the **REVELATION OF THE TIMING**  of "that day and that hour" was not part of the **COMMISSION** given to the Lord Jesus by His Father when He was sent into this world.
 
 An excellent presentation of this Not-part-of-His-Commission
 view is given in David Brown's Commentary "Four Gospels"
@@ -114,7 +114,8 @@ Below I list key points made by Brown on this verse and add some other thoughts 
     away*" -- what mere man (or supposed Person in "human only mode")
     could say that?  So the slightest suggestion of a supposed switch
     to one minor point of "human ignorance" at the very end of this
-    magisterial **divine prophecy (infallible prediction of the future!)**
+    magisterial **divine prophecy (infallible prediction of the future!)**,
+    especially immediately after the previous sentences,
     is utterly absurd in the context of the whole speech.
 
 4.  I just said in the previous point that the Divine title "The Son"
