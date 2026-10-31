@@ -61,8 +61,8 @@ The three main offices are well known, but the common Scriptural tying
 of Christ's Priesthood with His death as an Offering is not usually
 noticed or brought out.  Remarkably and wonderfully, Christ is
 **THE MEDIATOR (or High Priest)** of the New Covenant but at the same
-time, His Death is the **OFFERING** which ratifies the New Covenant
-at the same time! This is particularly brought out by Heb 9:15--23;
+time, His Death is the **OFFERING** which ratifies the New Covenant!
+This is particularly brought out by Heb 9:15--23;
 see below.  In the Old Covenant typology, the figures representing these
 concepts were clearly distinct: the priests were rational men (of the
 order of Aaron), while the victims which were offered were involuntarily
