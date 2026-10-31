@@ -57,17 +57,17 @@ in which Christ's Person and Work are officially rooted and worked out:
 - The three main offices of Christ (Prophet, Priest and King);
 - Christ's death considered as an Offering/Sacrifice.
 
-The three main offices are well known, but the common Scriptural tying of
-Christ's Priesthood with His death as an Offering is not usually brought
-out sufficiently.  Remarkably and wonderfully, Christ is **both The
-Mediator (or High Priest)** of the New Covenant **AND The Offering**
-which ratifies the Covenant at the same time! This is particularly
-brought out by Heb 9:15--23; see below.  In the Old Covenant typology,
-the figures representing these concepts were clearly distinct:
-the priests were rational men (of the
+The three main offices are well known, but the common Scriptural tying
+of Christ's Priesthood with His death as an Offering is not usually
+brought out sufficiently.  Remarkably and wonderfully, Christ is
+**THE MEDIATOR (or High Priest)** of the New Covenant but at the same
+time, His Death is the **OFFERING** which ratifies the New Covenant
+at the same time! This is particularly brought out by Heb 9:15--23;
+see below.  In the Old Covenant typology, the figures representing these
+concepts were clearly distinct: the priests were rational men (of the
 order of Aaron), while the victims which were offered were involuntarily
-slain animals,
-but these two types are merged in the one Person in the New Covenant!
+slain animals, but these two types are merged in the one Person in the
+New Covenant!
 
 Often Christ's death is talked/written about as purely a
 **death** (or perhaps even as an **offering/sacrifice** for sin), without it being
