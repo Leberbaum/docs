@@ -69,13 +69,13 @@ order of Aaron), while the victims which were offered were involuntarily
 slain animals, but these two types are merged in the one Person in the
 New Covenant!
 
-Often Christ's death is talked/written about as purely a
+Christ's death is often talked/written about as purely a
 **death** (or perhaps even as an **offering/sacrifice** for sin), without it being
 tied to His **priestly action** during this death; i.e., His agency
 in performing this offering.  On the other hand,
 we often hear the obvious fact that Christ is held forth as a Priest
-in Hebrews, but at the same time this is not explained in detail
-nor do we clearly hear that Hebrews
+in Hebrews, but at this needs to be explained in detail
+and also the fact that that the Epistle to the Hebrews
 hammers the point that Christ's
 Priestly action was **reflexive**: i.e., it involved **Christ offering Himself**
 in His own death!
