@@ -289,13 +289,13 @@ Offering concept is in the very opening sentence of Hebrews!
 <tr>
 <td class="office">PRIEST + OFFERING</td>
 <td class="ref">9:15</td>
-<td>Christ is the official Mediator (Priest) of the New Covenant, but amazingly, at the same time His death is also the Offering that officially <strong>ratifies</strong> the New Covenant!!!  This is like adding a signature to a document to make it legal/binding.  (Identical: <em>"This is the NEW COVENANT in MY BLOOD, which is SHED for you"</em> [<em>Luke 22:20</em>].)  Also, Christ's death was also needed to pay for [redeem] the transgressions committed under the Old Covenant (which were only symbolically atoned for in the past: payment for their forgiveness was 'on credit' [= <em>Rom 3:25</em>]).</td>
+<td>Christ is the official Mediator (Priest) of the New Covenant, but amazingly, at the same time His death is also the Offering that officially <strong>ratifies</strong> the New Covenant!!!  This is like adding a signature to a document to make it legal/binding.  (Identical: <em>"This is the NEW COVENANT in MY BLOOD, which is SHED for you"</em> [<em>Luke 22:20</em>].)  Christ's death was also needed to pay for [redeem] the transgressions committed under the Old Covenant (which were only symbolically atoned for in the past: payment for their forgiveness was 'on credit' [= <em>Rom 3:25</em>]).</td>
 </tr>
 
 <tr>
 <td class="office">OFFERING</td>
 <td class="ref">9:16-23</td>
-<td>Reinforcing v. 15 on Christ's death ratifying the NC: sacrificial death (shedding of blood) is always needed to ratify God's saving covenants with man; without this shed blood the covenant has no force at all (v. 16-17).  The Old Covenant under Moses was exactly the same (v. 18-23).</td>
+<td>Reinforcing v. 15 on Christ's death ratifying the NC: sacrificial death (shedding of blood) is always needed to ratify God's saving covenants with man; without this shed blood the covenant has no force at all, like a contract that has not been signed (v. 16-17).  The Old Covenant under Moses was exactly the same (v. 18-23).</td>
 </tr>
 
 <tr>
