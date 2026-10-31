@@ -59,7 +59,7 @@ in which Christ's Person and Work are officially rooted and worked out:
 
 The three main offices are well known, but the common Scriptural tying
 of Christ's Priesthood with His death as an Offering is not usually
-brought out sufficiently.  Remarkably and wonderfully, Christ is
+noticed or brought out.  Remarkably and wonderfully, Christ is
 **THE MEDIATOR (or High Priest)** of the New Covenant but at the same
 time, His Death is the **OFFERING** which ratifies the New Covenant
 at the same time! This is particularly brought out by Heb 9:15--23;
